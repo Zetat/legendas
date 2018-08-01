@@ -1,4 +1,4 @@
-1
+1 
 00:00:28,239 --> 00:00:33,239
 Legenda por <b>LAPUMiA</b>
 
@@ -8,11 +8,11 @@ Legenda por <b>LAPUMiA</b>
 
 3
 00:01:08,109 --> 00:01:11,213
-<i>Fomos amontoados em trens-prisão perto de Grodno.</i>
+<i>Fomos amontoados em trens-prisÃ£o perto de Grodno.</i>
 
 4
 00:01:12,880 --> 00:01:15,382
-<i>Tudo era apertado e úmido.</i>
+<i>Tudo era apertado e Ãºmido.</i>
 
 5
 00:01:16,850 --> 00:01:18,519
@@ -20,7 +20,7 @@ Legenda por <b>LAPUMiA</b>
 
 6
 00:01:19,853 --> 00:01:23,891
-<i>Eu não saberia dizer por quanto tempo
+<i>Eu nÃ£o saberia dizer por quanto tempo
 os feridos iriam aguentar.</i>
 
 7
@@ -29,7 +29,7 @@ os feridos iriam aguentar.</i>
 
 8
 00:01:28,963 --> 00:01:30,999
-<i>era a única água para bebermos.</i>
+<i>era a Ãºnica Ã¡gua para bebermos.</i>
 
 9
 00:01:36,237 --> 00:01:38,874
@@ -41,22 +41,22 @@ os feridos iriam aguentar.</i>
 
 11
 00:01:44,044 --> 00:01:47,948
-<i>Agora, parecia que não eramos mais prisioneiros de guerra,
+<i>Agora, parecia que nÃ£o eramos mais prisioneiros de guerra,
 mas sim convidados.</i>
 
 12
 00:01:49,216 --> 00:01:51,952
-<i>Em várias ocasiões os oficiais do NKVD</i>
+<i>Em vÃ¡rias ocasiÃµes os oficiais do NKVD</i>
 
 13
 00:01:52,320 --> 00:01:55,890
-<i>buscavam alguns de nós para interrogatórios
+<i>buscavam alguns de nÃ³s para interrogatÃ³rios
 durante a noite.</i>
 
 14
 00:01:57,525 --> 00:02:00,961
 <i>Com toda essa loucura,
-não é de se admirar</i>
+nÃ£o Ã© de se admirar</i>
 
 15
 00:02:01,128 --> 00:02:04,332
@@ -65,17 +65,17 @@ o que deveria ter sido feito.</i>
 
 16
 00:02:08,034 --> 00:02:10,237
-<i>20 de março de 1940.</i>
+<i>20 de marÃ§o de 1940.</i>
 
 17
 00:02:11,906 --> 00:02:15,576
-<i>Parece que os Soviéticos
-estão sendo mais cordiais conosco.</i>
+<i>Parece que os SoviÃ©ticos
+estÃ£o sendo mais cordiais conosco.</i>
 
 18
 00:02:16,944 --> 00:02:20,948
 <i>Boatos correm solto entre os homens
-dizendo que nossa libertação é iminente.</i>
+dizendo que nossa libertaÃ§Ã£o Ã© iminente.</i>
 
 19
 00:02:24,117 --> 00:02:26,420
@@ -87,19 +87,19 @@ dizendo que nossa libertação é iminente.</i>
 
 21
 00:02:31,859 --> 00:02:33,994
-<i>Meu nome foi lido esta manhã.</i>
+<i>Meu nome foi lido esta manhÃ£.</i>
 
 22
 00:02:35,162 --> 00:02:36,629
-<i>A primavera está no ar,</i>
+<i>A primavera estÃ¡ no ar,</i>
 
 23
 00:02:37,164 --> 00:02:40,000
-<i>e eu não me sentia tão vivo assim há meses.</i>
+<i>e eu nÃ£o me sentia tÃ£o vivo assim hÃ¡ meses.</i>
 
 24
 00:02:41,368 --> 00:02:44,004
-<i>Minha esperança é que esta seja a última vez</i>
+<i>Minha esperanÃ§a Ã© que esta seja a Ãºltima vez</i>
 
 25
 00:02:44,137 --> 00:02:46,908
@@ -107,7 +107,7 @@ dizendo que nossa libertação é iminente.</i>
 
 26
 00:02:52,000 --> 00:02:57,004
-<b>A Última Testemunha</b>
+<b>A Ãšltima Testemunha</b>
 
 27
 00:02:59,000 --> 00:03:03,004
@@ -115,11 +115,11 @@ baseado em acontecimentos reais
 
 28
 00:03:19,539 --> 00:03:21,742
-Não precisa ficar tão interessado, rapaz.
+NÃ£o precisa ficar tÃ£o interessado, rapaz.
 
 29
 00:03:24,212 --> 00:03:25,814
-Suicidio, é o que parece.
+Suicidio, Ã© o que parece.
 
 30
 00:03:26,980 --> 00:03:28,015
@@ -148,16 +148,16 @@ Cuidado com seus passos.
 
 36
 00:03:56,010 --> 00:03:58,780
-Ocupação militar britânica no Iraque acaba.
+OcupaÃ§Ã£o militar britÃ¢nica no Iraque acaba.
 
 37
 00:04:01,248 --> 00:04:04,619
 Western Post!
-Ocupação militar britânica no Iraque acaba.
+OcupaÃ§Ã£o militar britÃ¢nica no Iraque acaba.
 
 38
 00:04:05,218 --> 00:04:07,254
-Então... Sandy pode cobrir as docas.
+EntÃ£o... Sandy pode cobrir as docas.
 
 39
 00:04:07,987 --> 00:04:09,523
@@ -165,7 +165,7 @@ McCloud, aquele caso Redcliffe,
 
 40
 00:04:10,525 --> 00:04:14,162
-e John pegue a estória do sindicato...
+e John pegue a estÃ³ria do sindicato...
 pelos seus pecados.
 
 41
@@ -178,7 +178,7 @@ Underwood, o Festival da Sidra.
 
 43
 00:04:19,265 --> 00:04:21,236
-É isto.
+Ã‰ isto.
 
 44
 00:04:22,036 --> 00:04:22,837
@@ -186,23 +186,23 @@ Pra fora todos.
 
 45
 00:04:28,008 --> 00:04:30,245
-Hey, Eu disse não.
+Hey, Eu disse nÃ£o.
 
 46
 00:04:31,445 --> 00:04:34,049
-Ninguém quer ouvir falar em suicídios, Stephen.
+NinguÃ©m quer ouvir falar em suicÃ­dios, Stephen.
 
 47
 00:04:34,481 --> 00:04:35,315
-Não agora.
+NÃ£o agora.
 
 48
 00:04:36,183 --> 00:04:38,053
-É ruim para a circulação .
+Ã‰ ruim para a circulaÃ§Ã£o .
 
 49
 00:04:39,152 --> 00:04:40,254
-E se não for um suicído?
+E se nÃ£o for um suicÃ­do?
 
 50
 00:04:41,087 --> 00:04:43,023
@@ -214,16 +214,16 @@ Stephen, querido jovem,
 
 52
 00:04:45,592 --> 00:04:49,063
-A polícia deu alguma dica
+A polÃ­cia deu alguma dica
 
 53
 00:04:49,597 --> 00:04:52,767
-de que eles pensam que isto é
-alguma coisa mais do que suicídio?
+de que eles pensam que isto Ã©
+alguma coisa mais do que suicÃ­dio?
 
 54
 00:04:55,234 --> 00:04:56,104
-Não.
+NÃ£o.
 
 55
 00:04:56,203 --> 00:04:57,204
@@ -231,7 +231,7 @@ Exatamente.
 
 56
 00:04:58,037 --> 00:05:00,140
-Então não teste a minha paciência.
+EntÃ£o nÃ£o teste a minha paciÃªncia.
 
 57
 00:05:00,164 --> 00:05:01,074
@@ -239,16 +239,16 @@ Exatamente!
 
 58
 00:05:01,075 --> 00:05:04,779
-A guerra é uma coisa terrível e
-muitos não conseguem lidar com isso,
+A guerra Ã© uma coisa terrÃ­vel e
+muitos nÃ£o conseguem lidar com isso,
 
 59
 00:05:05,044 --> 00:05:06,347
-e é o ponto final disso.
+e Ã© o ponto final disso.
 
 60
 00:05:07,582 --> 00:05:09,084
-Não existe uma história aqui.
+NÃ£o existe uma histÃ³ria aqui.
 
 61
 00:05:10,484 --> 00:05:11,785
@@ -274,8 +274,8 @@ Obrigado.</i>
 
 66
 00:05:39,080 --> 00:05:41,649
-Você, ahn,
-você já esteve no Festival da SIdra?
+VocÃª, ahn,
+vocÃª jÃ¡ esteve no Festival da SIdra?
 
 67
 00:05:56,097 --> 00:05:57,298
@@ -297,23 +297,23 @@ Sei.
 
 71
 00:06:42,342 --> 00:06:46,212
-<i>Apesar da aprovação do
+<i>Apesar da aprovaÃ§Ã£o do
 Ato de Reassentamento dos Poloneses
-no ínicio do ano,</i>
+no Ã­nicio do ano,</i>
 
 72
 00:06:46,380 --> 00:06:50,183
-<i>o Oeste do país vem testemunhado um crescente
-número de suicídios inexplicados.</i>
+<i>o Oeste do paÃ­s vem testemunhado um crescente
+nÃºmero de suicÃ­dios inexplicados.</i>
 
 73
 00:06:51,185 --> 00:06:54,655
 <i>Todos os homens eram ex-combatentes
-do Segundo Corpo Polonês.</i>
+do Segundo Corpo PolonÃªs.</i>
 
 74
 00:06:55,488 --> 00:06:58,859
-<i>Uma coincidência?
+<i>Uma coincidÃªncia?
 Ou poderia ser algo mais sinistro?
 </i>
 
@@ -325,7 +325,7 @@ Ou poderia ser algo mais sinistro?
 76
 00:07:57,250 --> 00:07:59,419
 - Posso ajudar?
-- Vim para ver o Capitão.
+- Vim para ver o CapitÃ£o.
 
 77
 00:07:59,620 --> 00:08:00,722
@@ -348,16 +348,16 @@ Quando terminarmos aqui,
 81
 00:08:15,368 --> 00:08:16,337
 diga ao oficial intendente
-para fazer um inventário
+para fazer um inventÃ¡rio
 
 82
 00:08:17,070 --> 00:08:18,905
-de tudo o que está em falta.
+de tudo o que estÃ¡ em falta.
 Dobre isso e coloque em ordem.
 
 83
 00:08:19,039 --> 00:08:19,774
-Sim, Capitão.
+Sim, CapitÃ£o.
 
 84
 00:08:20,241 --> 00:08:21,308
@@ -378,7 +378,7 @@ Se o senhor quiser traze-los, Coronel,
 
 88
 00:08:45,265 --> 00:08:46,634
-são necessárias apenas algumas assinaturas.
+sÃ£o necessÃ¡rias apenas algumas assinaturas.
 
 89
 00:08:47,034 --> 00:08:47,769
@@ -390,22 +390,22 @@ Coronel, talvez o senhor e seu acompanhante
 
 91
 00:08:51,905 --> 00:08:53,741
-queiram tomar o café da manhã
+queiram tomar o cafÃ© da manhÃ£
 antes de retornarem?
 
 92
 00:08:55,108 --> 00:08:56,910
-Não temos muito, mas está quente.
+NÃ£o temos muito, mas estÃ¡ quente.
 
 93
 00:08:57,310 --> 00:08:59,379
-- Obrigado. Isso é muito gentil.
+- Obrigado. Isso Ã© muito gentil.
 - Er, Jeanette...
 
 94
 00:09:00,280 --> 00:09:02,515
 Quando terminarem, poderiam levar
-o ajudante do Coronel até lá dentro?
+o ajudante do Coronel atÃ© lÃ¡ dentro?
 
 95
 00:09:02,616 --> 00:09:03,451
@@ -417,7 +417,7 @@ John.
 
 97
 00:09:12,558 --> 00:09:13,895
-Eu falo com você depois.
+Eu falo com vocÃª depois.
 
 98
 00:09:14,327 --> 00:09:15,395
@@ -426,8 +426,8 @@ Eu falo com você depois.
 
 99
 00:09:17,063 --> 00:09:20,601
-Meu nome é Stephen Underwood.
-O Capitão é meu irmão.
+Meu nome Ã© Stephen Underwood.
+O CapitÃ£o Ã© meu irmÃ£o.
 
 100
 00:09:21,300 --> 00:09:22,969
@@ -440,17 +440,17 @@ Coronel Janusz Pietrowski,
 
 102
 00:09:25,338 --> 00:09:26,806
-Pertencente ao Segundo Corpo Polonês,
+Pertencente ao Segundo Corpo PolonÃªs,
 
 103
 00:09:26,906 --> 00:09:28,508
-Atuando na ligação dos
+Atuando na ligaÃ§Ã£o dos
 Campos de Assentamento.
 
 104
 00:09:29,776 --> 00:09:32,145
 - Coronel, prazer em conhece-lo.
-- Eu também, senhor Underwood.
+- Eu tambÃ©m, senhor Underwood.
 
 105
 00:09:32,746 --> 00:09:33,514
@@ -462,20 +462,20 @@ Coronel?
 
 107
 00:09:45,358 --> 00:09:46,726
-Eu disse não, Stephen.
+Eu disse nÃ£o, Stephen.
 
 108
 00:09:47,361 --> 00:09:49,496
-Por favor, Capitão.
-Seu irmão é benvindo.
+Por favor, CapitÃ£o.
+Seu irmÃ£o Ã© benvindo.
 
 109
 00:09:50,361 --> 00:09:52,000
-Eu gostaria que o senhor comentasse sobre…
+Eu gostaria que o senhor comentasse sobreÂ…
 
 110
 00:09:52,366 --> 00:09:54,401
-o suicídio, ontem, de outro soldado polonês?
+o suicÃ­dio, ontem, de outro soldado polonÃªs?
 
 111
 00:09:55,334 --> 00:09:56,570
@@ -483,17 +483,17 @@ Sosnowicz.
 
 112
 00:09:57,672 --> 00:09:59,373
-Não parece muito surpreso, Coronel.
+NÃ£o parece muito surpreso, Coronel.
 
 113
 00:09:59,840 --> 00:10:02,309
 Bem, senhor Underwood,
-é sempre muito estressante
+Ã© sempre muito estressante
 
 114
 00:10:02,409 --> 00:10:04,477
 quando um homem orgulhoso
-perde toda a esperança.
+perde toda a esperanÃ§a.
 
 115
 00:10:05,312 --> 00:10:06,513
@@ -506,8 +506,8 @@ passaram a guerra combatendo por sua terra natal,
 
 117
 00:10:11,885 --> 00:10:13,419
-senhor Underwood, que agora é parte
-da União Soviética,
+senhor Underwood, que agora Ã© parte
+da UniÃ£o SoviÃ©tica,
 
 118
 00:10:13,553 --> 00:10:15,622
@@ -515,17 +515,17 @@ a qual os considera inimigos do Estado.
 
 119
 00:10:16,557 --> 00:10:19,260
-Fiquei sabendo que toda a família
+Fiquei sabendo que toda a famÃ­lia
 dele foi assassinada.
 
 120
 00:10:19,360 --> 00:10:21,595
-Coronel, por favor, nós não temos provas disso.
+Coronel, por favor, nÃ³s nÃ£o temos provas disso.
 
 121
 00:10:22,395 --> 00:10:25,232
 Claramente, ele acreditava o bastante nisso
-para tirar a própria vida, Capitão.
+para tirar a prÃ³pria vida, CapitÃ£o.
 
 122
 00:10:25,665 --> 00:10:27,200
@@ -533,17 +533,17 @@ E por que o senhor acredita nisso, Coronel?
 
 123
 00:10:28,401 --> 00:10:31,237
-Porque parece que todos nós nos esquecemos
+Porque parece que todos nÃ³s nos esquecemos
 de que em 1939
 
 124
 00:10:31,371 --> 00:10:33,274
-a União Soviética invadiu a Polonia,
+a UniÃ£o SoviÃ©tica invadiu a Polonia,
 
 125
 00:10:33,841 --> 00:10:37,178
-Em aliança com os nazistas
-e com a mesma intenção, senhor Underwood.
+Em alianÃ§a com os nazistas
+e com a mesma intenÃ§Ã£o, senhor Underwood.
 
 126
 00:10:38,478 --> 00:10:39,979
@@ -555,51 +555,51 @@ Para destruir sua cultura e seu povo.
 
 128
 00:10:45,052 --> 00:10:47,989
-Quando os soviéticos retomaram
+Quando os soviÃ©ticos retomaram
 a Polonia em 1944,
 
 129
 00:10:48,622 --> 00:10:51,424
 eles permitiram que os nazistas
-esmagassem o Levante de Varsóvia
+esmagassem o Levante de VarsÃ³via
 
 130
 00:10:52,358 --> 00:10:54,895
 para eliminar qualquer possibilidade
-de ameaça a sua própria ocupação.
+de ameaÃ§a a sua prÃ³pria ocupaÃ§Ã£o.
 
 131
 00:10:56,429 --> 00:11:00,267
 As recentes, assim chamadas,
-eleições “livres” na Polonia
+eleiÃ§Ãµes Â“livresÂ” na Polonia
 
 132
 00:11:01,400 --> 00:11:03,303
-não foram mais do que uma
-“encenaçao” dos soviéticos.
+nÃ£o foram mais do que uma
+Â“encenaÃ§aoÂ” dos soviÃ©ticos.
 
 133
 00:11:04,438 --> 00:11:06,907
-Não, o verdadeiro governo da Polonia
-está exilado aqui em Londres,
+NÃ£o, o verdadeiro governo da Polonia
+estÃ¡ exilado aqui em Londres,
 
 134
 00:11:07,406 --> 00:11:10,610
-mas não é mais reconhecido pela Grã-Bretanha
+mas nÃ£o Ã© mais reconhecido pela GrÃ£-Bretanha
 ou pelos Estados Unidos.
 
 135
 00:11:10,711 --> 00:11:13,480
 E no ano passado,
-as Forças Armadas Livres da Polonia
+as ForÃ§as Armadas Livres da Polonia
 
 136
 00:11:13,579 --> 00:11:15,715
-foram excluidas de sua Parada da Vitória.
+foram excluidas de sua Parada da VitÃ³ria.
 
 137
 00:11:16,683 --> 00:11:18,685
-Apenas para não chatear o Camarada Stalin.
+Apenas para nÃ£o chatear o Camarada Stalin.
 
 138
 00:11:20,420 --> 00:11:21,521
@@ -608,29 +608,29 @@ senhor Underwood?
 
 139
 00:11:23,090 --> 00:11:23,925
-Que tudo está bem?
+Que tudo estÃ¡ bem?
 
 140
 00:11:28,728 --> 00:11:30,797
 Eu compreendo que o mundo
-está farto da guerra.
+estÃ¡ farto da guerra.
 
 141
 00:11:31,631 --> 00:11:32,732
-Nós todos estamos.
+NÃ³s todos estamos.
 
 142
 00:11:34,300 --> 00:11:36,036
-Mas não tem desculpa por ingenuidade.
+Mas nÃ£o tem desculpa por ingenuidade.
 
 143
 00:11:37,438 --> 00:11:38,505
-Seu irmão sabe disso.
+Seu irmÃ£o sabe disso.
 
 144
 00:11:40,606 --> 00:11:43,209
 Ele permanece com a tarefa
-inviável de persuadir...
+inviÃ¡vel de persuadir...
 
 145
 00:11:43,309 --> 00:11:45,611
@@ -640,21 +640,21 @@ para a Polonia,
 146
 00:11:46,447 --> 00:11:48,881
 Sabendo muito bem de que
-não pode garantir sua segurança.
+nÃ£o pode garantir sua seguranÃ§a.
 
 147
 00:11:49,683 --> 00:11:51,852
-Ninguém será obrigado a voltar
-se não quiser, Coronel.
+NinguÃ©m serÃ¡ obrigado a voltar
+se nÃ£o quiser, Coronel.
 
 148
 00:11:54,454 --> 00:11:56,523
-Sim, Capitão. É claro.
+Sim, CapitÃ£o. Ã‰ claro.
 
 149
 00:12:00,293 --> 00:12:03,331
 Coronel, por favor.
-O café da manhã está esperando.
+O cafÃ© da manhÃ£ estÃ¡ esperando.
 
 150
 00:12:17,510 --> 00:12:19,679
@@ -664,11 +664,11 @@ O café da manhã está esperando.
 151
 00:12:20,347 --> 00:12:23,583
 - Oito e meia, no King's Arms.
-- Não, é muito público.
+- NÃ£o, Ã© muito pÃºblico.
 
 152
 00:12:23,717 --> 00:12:25,318
-Não, apenas alguns locais vão lá.
+NÃ£o, apenas alguns locais vÃ£o lÃ¡.
 
 153
 00:12:25,819 --> 00:12:27,554
@@ -685,11 +685,11 @@ Mason quer me ver.
 
 156
 00:12:35,661 --> 00:12:36,696
-Você tem mesmo que ir?
+VocÃª tem mesmo que ir?
 
 157
 00:12:37,364 --> 00:12:39,100
-Você sabe que tenho.
+VocÃª sabe que tenho.
 
 158
 00:13:07,528 --> 00:13:08,262
@@ -701,17 +701,17 @@ Ah! Obrigado, Stanley.
 
 160
 00:13:17,337 --> 00:13:18,404
-Você ainda está servindo?
+VocÃª ainda estÃ¡ servindo?
 
 161
 00:13:18,972 --> 00:13:20,574
-É muito dificil ver você
+Ã‰ muito dificil ver vocÃª
 sem o uniforme ultimamente.
 
 162
 00:13:23,577 --> 00:13:24,712
 De qualquer maneira,
-você é que dificilmente me vê.
+vocÃª Ã© que dificilmente me vÃª.
 
 163
 00:13:24,845 --> 00:13:27,181
@@ -729,7 +729,7 @@ baile anual dos Robinsons
 
 166
 00:13:33,687 --> 00:13:36,257
-Oh, Deus. É mesmo nesta época do ano?
+Oh, Deus. Ã‰ mesmo nesta Ã©poca do ano?
 
 167
 00:13:36,356 --> 00:13:38,757
@@ -742,22 +742,22 @@ ir juntos este ano.
 
 169
 00:13:42,029 --> 00:13:45,366
-- Seus pais estarão lá.
-- Eu preferia não ir, se for o mesmo para você.
+- Seus pais estarÃ£o lÃ¡.
+- Eu preferia nÃ£o ir, se for o mesmo para vocÃª.
 
 170
 00:13:46,601 --> 00:13:49,169
-Pode parecer estranho se…
+Pode parecer estranho seÂ…
 eu for sozinho.
 
 171
 00:13:49,836 --> 00:13:52,573
-Algumas más-linguas podem vibrar.
+Algumas mÃ¡s-linguas podem vibrar.
 
 172
 00:13:53,640 --> 00:13:55,241
 - Se devemos ir...
-- Esplêndido
+- EsplÃªndido
 
 173
 00:13:56,643 --> 00:13:57,611
@@ -765,11 +765,11 @@ Oh!
 
 174
 00:13:57,711 --> 00:13:59,379
-Mais uma coisa antes de você ir.
+Mais uma coisa antes de vocÃª ir.
 
 175
 00:14:00,045 --> 00:14:01,848
-Você está no lugar perfeito
+VocÃª estÃ¡ no lugar perfeito
 
 176
 00:14:02,582 --> 00:14:04,250
@@ -782,11 +782,11 @@ Ahn... Loboda e Nowak,
 178
 00:14:07,721 --> 00:14:09,556
 Dois refugiados que chegaram
-em seu campo esta manhã.
+em seu campo esta manhÃ£.
 
 179
 00:14:09,655 --> 00:14:11,925
-Você está bem informado, como sempre.
+VocÃª estÃ¡ bem informado, como sempre.
 
 180
 00:14:12,659 --> 00:14:16,096
@@ -805,24 +805,24 @@ Por que?
 183
 00:14:20,768 --> 00:14:23,771
 Provavelmente nada.
-Só um memorando vago que veio de Londres.
+SÃ³ um memorando vago que veio de Londres.
 
 184
 00:14:24,670 --> 00:14:26,674
-Nada para se preocupar. É o que sei.
+Nada para se preocupar. Ã‰ o que sei.
 
 185
 00:14:28,741 --> 00:14:30,777
-Eu não espero que cruze a cidade todas as manhãs.
+Eu nÃ£o espero que cruze a cidade todas as manhÃ£s.
 
 186
 00:14:30,877 --> 00:14:32,711
-Um simples telefonema será suficiente.
+Um simples telefonema serÃ¡ suficiente.
 
 187
 00:14:33,246 --> 00:14:36,850
-Eu sei que você deve estar muita ocupada
-com toda aquela coisa de repatriação.
+Eu sei que vocÃª deve estar muita ocupada
+com toda aquela coisa de repatriaÃ§Ã£o.
 
 188
 00:14:36,949 --> 00:14:38,919
@@ -831,7 +831,7 @@ com toda aquela coisa de repatriação.
 
 189
 00:14:40,821 --> 00:14:41,889
-Isso é tudo?
+Isso Ã© tudo?
 
 190
 00:14:44,256 --> 00:14:45,859
@@ -839,24 +839,24 @@ Bom, eu tenho que voltar.
 
 191
 00:14:47,428 --> 00:14:49,496
-Oh, por favor, não quero reter
-você por mais tempo.
+Oh, por favor, nÃ£o quero reter
+vocÃª por mais tempo.
 
 192
 00:14:49,663 --> 00:14:51,664
-Ahn, mas se nós pudessemos...
+Ahn, mas se nÃ³s pudessemos...
 
 193
 00:14:52,097 --> 00:14:53,700
-Manter isso entre nós?
+Manter isso entre nÃ³s?
 
 194
 00:14:54,168 --> 00:14:54,935
-É claro.
+Ã‰ claro.
 
 195
 00:14:56,669 --> 00:14:57,804
-Então, estamos felizes?
+EntÃ£o, estamos felizes?
 
 196
 00:14:59,640 --> 00:15:00,707
@@ -874,16 +874,16 @@ O que?
 
 199
 00:15:31,670 --> 00:15:33,973
-Você sabe porque ele se casou com você, né?
+VocÃª sabe porque ele se casou com vocÃª, nÃ©?
 
 200
 00:15:37,810 --> 00:15:40,814
-Ele não é o monstro que você quer que ele seja.
+Ele nÃ£o Ã© o monstro que vocÃª quer que ele seja.
 
 201
 00:15:41,715 --> 00:15:45,086
-Então seu pai tem o direito de vender
-você pela maior oferta?
+EntÃ£o seu pai tem o direito de vender
+vocÃª pela maior oferta?
 
 202
 00:15:48,889 --> 00:15:51,025
@@ -900,7 +900,7 @@ Eles sabem?
 
 205
 00:16:07,507 --> 00:16:09,542
-Casamento não significa amor para eles.
+Casamento nÃ£o significa amor para eles.
 
 206
 00:16:11,910 --> 00:16:13,279
@@ -912,67 +912,67 @@ Estava apaixonada por ele.
 
 208
 00:16:18,851 --> 00:16:21,188
-Obviamente eu não sabia na época
+Obviamente eu nÃ£o sabia na Ã©poca
 o que eu sei agora.
 
 209
 00:16:22,755 --> 00:16:24,625
-Mas o nosso amor é de um tipo diferente agora.
+Mas o nosso amor Ã© de um tipo diferente agora.
 
 210
 00:16:27,760 --> 00:16:29,764
-Stephen, ele é meu amigo.
+Stephen, ele Ã© meu amigo.
 
 211
 00:16:32,765 --> 00:16:33,767
-É mentira.
+Ã‰ mentira.
 
 212
 00:16:34,867 --> 00:16:36,569
-Então o que você quer que eu faça?
+EntÃ£o o que vocÃª quer que eu faÃ§a?
 
 213
 00:16:37,938 --> 00:16:40,073
-Você quer que eu deixe meu marido, meu trabalho,
+VocÃª quer que eu deixe meu marido, meu trabalho,
 
 214
 00:16:40,207 --> 00:16:42,976
-vire as costas para minha família
-e saia de Londres com você?
+vire as costas para minha famÃ­lia
+e saia de Londres com vocÃª?
 
 215
 00:16:43,776 --> 00:16:44,978
-Isso é impossível.
+Isso Ã© impossÃ­vel.
 
 216
 00:16:48,781 --> 00:16:50,916
-E também não boto fé em sua “grande matéria”
+E tambÃ©m nÃ£o boto fÃ© em sua Â“grande matÃ©riaÂ”
 
 217
 00:16:51,016 --> 00:16:52,986
-porque se o que o Coronel polonês
-disse é verdade,
+porque se o que o Coronel polonÃªs
+disse Ã© verdade,
 
 218
 00:16:53,086 --> 00:16:53,854
-Você não tem provas.
+VocÃª nÃ£o tem provas.
 
 219
 00:16:54,821 --> 00:16:56,490
-E desafortunados como eles são,
+E desafortunados como eles sÃ£o,
 
 220
 00:16:56,590 --> 00:16:58,225
-esses suicídios são apenas isso.
+esses suicÃ­dios sÃ£o apenas isso.
 
 221
 00:16:59,559 --> 00:17:01,861
-Suicídios. Nada mais.
+SuicÃ­dios. Nada mais.
 
 222
 00:17:15,909 --> 00:17:19,780
-- ‘Tarde, amigo. O que vai ser?
-- Ahn, quanto é isso?
+- Â‘Tarde, amigo. O que vai ser?
+- Ahn, quanto Ã© isso?
 
 223
 00:17:21,381 --> 00:17:23,016
@@ -1004,13 +1004,13 @@ Maldito trabalho ferrado.
 
 229
 00:18:22,042 --> 00:18:23,677
-Estão falando em deixa-los
+EstÃ£o falando em deixa-los
 trabalhar nas minas.
 
 230
 00:18:24,111 --> 00:18:27,179
 A guerra acabou.
-Mande os idiotas de volta, é o que digo.
+Mande os idiotas de volta, Ã© o que digo.
 
 231
 00:18:27,880 --> 00:18:29,883
@@ -1019,32 +1019,32 @@ dos nossos rapazes.
 
 232
 00:18:32,084 --> 00:18:33,920
-Não podem voltar
+NÃ£o podem voltar
 pro causa dos bolcheviques?
 
 233
 00:18:36,323 --> 00:18:38,092
-Bem, você não vai escapar
+Bem, vocÃª nÃ£o vai escapar
 dos vermelhos aqui, filho.
 
 234
 00:18:39,458 --> 00:18:41,928
-Não com o Partido Trabalhista
-mandando neste país.
+NÃ£o com o Partido Trabalhista
+mandando neste paÃ­s.
 
 235
 00:18:43,096 --> 00:18:46,966
-- Vocês não sabem nada.
-- Quem está te perguntando, polaco?
+- VocÃªs nÃ£o sabem nada.
+- Quem estÃ¡ te perguntando, polaco?
 
 236
 00:18:52,304 --> 00:18:54,908
-Eu não sou polaco. Sou russo.
+Eu nÃ£o sou polaco. Sou russo.
 
 237
 00:18:55,007 --> 00:18:57,844
-O que me importa? Vocês são do mesmo sangue.
-Vão pra casa!
+O que me importa? VocÃªs sÃ£o do mesmo sangue.
+VÃ£o pra casa!
 
 238
 00:18:57,945 --> 00:18:59,846
@@ -1054,16 +1054,16 @@ Vão pra casa!
 239
 00:18:59,946 --> 00:19:01,115
 - Hey, estamos indo.
-- E não voltem!
+- E nÃ£o voltem!
 
 240
 00:19:02,082 --> 00:19:03,382
-Vocês não são bem-vindos aqui!
+VocÃªs nÃ£o sÃ£o bem-vindos aqui!
 
 241
 00:19:03,950 --> 00:19:06,120
-Vamos lá, Bill. Meu nome ainda está
-na porta de entrada. Já chega.
+Vamos lÃ¡, Bill. Meu nome ainda estÃ¡
+na porta de entrada. JÃ¡ chega.
 
 242
 00:19:17,030 --> 00:19:17,798
@@ -1089,7 +1089,7 @@ do acampamento.
 247
 00:19:51,930 --> 00:19:54,634
 Sim, ahn...
-Nós temos que voltar, desculpe.
+NÃ³s temos que voltar, desculpe.
 
 248
 00:19:55,400 --> 00:19:56,970
@@ -1101,15 +1101,15 @@ Eu escrevo para um jornal.
 
 250
 00:20:01,640 --> 00:20:02,976
-Eu só quero te perguntar algumas coisas.
+Eu sÃ³ quero te perguntar algumas coisas.
 
 251
 00:20:04,011 --> 00:20:05,546
-Não.
+NÃ£o.
 
 252
 00:20:07,013 --> 00:20:09,949
-Você é um russo, fingindo ser polonês, certo?
+VocÃª Ã© um russo, fingindo ser polonÃªs, certo?
 
 253
 00:20:11,784 --> 00:20:13,253
@@ -1117,26 +1117,26 @@ Senhor Loboda, por favor!
 
 254
 00:20:16,989 --> 00:20:19,625
-Eu não estou fingindo ser ninguém.
+Eu nÃ£o estou fingindo ser ninguÃ©m.
 
 255
 00:20:21,194 --> 00:20:25,032
-Se você tivesse visto o que eu vi, e
-ntão entenderia.
+Se vocÃª tivesse visto o que eu vi, e
+ntÃ£o entenderia.
 
 256
 00:20:26,432 --> 00:20:28,534
-- O que você viu?
+- O que vocÃª viu?
 - Ivan.
 
 257
 00:20:30,003 --> 00:20:32,840
-Eles matam você, da mesma forma
+Eles matam vocÃª, da mesma forma
 como querem me matar.
 
 258
 00:20:36,776 --> 00:20:38,077
-Quem quer matar você?
+Quem quer matar vocÃª?
 
 259
 00:20:39,012 --> 00:20:40,047
@@ -1158,7 +1158,7 @@ Stephen?
 263
 00:21:13,446 --> 00:21:16,082
 - O que ele tem?
-- Eu não me lembro.
+- Eu nÃ£o me lembro.
 
 264
 00:21:16,682 --> 00:21:18,618
@@ -1166,21 +1166,21 @@ Roupas principalmente. Quase nada.
 
 265
 00:21:21,854 --> 00:21:24,557
-Não faça isso.
-Você ouviu o que ele disse.
+NÃ£o faÃ§a isso.
+VocÃª ouviu o que ele disse.
 
 266
 00:21:26,292 --> 00:21:28,093
-Você não acha, que...
+VocÃª nÃ£o acha, que...
 
 267
 00:21:29,062 --> 00:21:31,064
-se alguém quisesse mata-lo,
-já teria feito isso?
+se alguÃ©m quisesse mata-lo,
+jÃ¡ teria feito isso?
 
 268
 00:21:31,864 --> 00:21:33,299
-Não se eles soubessem quem ele é.
+NÃ£o se eles soubessem quem ele Ã©.
 
 269
 00:21:33,323 --> 00:21:35,323
@@ -1188,11 +1188,11 @@ Não se eles soubessem quem ele é.
 
 270
 00:21:42,242 --> 00:21:43,911
-Ele pode estar envolvido nos suicídios.
+Ele pode estar envolvido nos suicÃ­dios.
 
 271
 00:21:44,843 --> 00:21:46,179
-Loboda pode ser a estória.
+Loboda pode ser a estÃ³ria.
 
 272
 00:21:50,048 --> 00:21:50,883
@@ -1200,11 +1200,11 @@ Me deixe tentar isso.
 
 273
 00:21:52,919 --> 00:21:53,719
-Por nós.
+Por nÃ³s.
 
 274
 00:24:58,103 --> 00:24:58,971
-É polonês.
+Ã‰ polonÃªs.
 
 275
 00:25:01,040 --> 00:25:02,476
@@ -1213,16 +1213,16 @@ para um amigo.
 
 276
 00:25:04,509 --> 00:25:05,278
-Não.
+NÃ£o.
 
 277
 00:25:06,912 --> 00:25:09,448
 Rose. Rose Miller,
-a escriturária no escritório.
+a escriturÃ¡ria no escritÃ³rio.
 
 278
 00:25:10,416 --> 00:25:11,784
-A família dela é da Polonia.
+A famÃ­lia dela Ã© da Polonia.
 
 279
 00:25:13,085 --> 00:25:14,220
@@ -1230,7 +1230,7 @@ Ela pode traduzir isso para mim.
 
 280
 00:25:14,321 --> 00:25:17,457
-Não! E o Loboda?
+NÃ£o! E o Loboda?
 Se ele descobrir que isso sumiu?
 
 281
@@ -1239,29 +1239,29 @@ As coisas desaparecem por aqui o tempo todo.
 
 282
 00:25:19,792 --> 00:25:21,761
-Você está bebado?
+VocÃª estÃ¡ bebado?
 E se ele achar que fui eu?
 
 283
 00:25:22,261 --> 00:25:25,065
-Mm, Deixe isso pra lá, por enquanto.
+Mm, Deixe isso pra lÃ¡, por enquanto.
 
 284
 00:25:27,266 --> 00:25:29,535
-Eu supunha que isso poderia ser sobre nós.
+Eu supunha que isso poderia ser sobre nÃ³s.
 
 285
 00:25:34,506 --> 00:25:35,308
-E é..
+E Ã©..
 
 286
 00:25:36,543 --> 00:25:39,313
-Porque parece que você quer
+Porque parece que vocÃª quer
 que eu corra todos os riscos.
 
 287
 00:25:44,751 --> 00:25:46,019
-Me dê a caixa.
+Me dÃª a caixa.
 
 288
 00:25:53,059 --> 00:25:53,994
@@ -1282,7 +1282,7 @@ Senhor Underwood?
 292
 00:27:51,410 --> 00:27:54,080
 Eu fiz.
-A matéria, o Festival da Sidra.
+A matÃ©ria, o Festival da Sidra.
 
 293
 00:27:56,415 --> 00:27:59,452
@@ -1296,16 +1296,16 @@ Eu preciso de outro favor.
 
 295
 00:28:02,755 --> 00:28:04,489
-Se puder, peça a seu pai.
+Se puder, peÃ§a a seu pai.
 
 296
 00:28:05,057 --> 00:28:07,460
-- Sobre o que é?
-- Eu não sei.
+- Sobre o que Ã©?
+- Eu nÃ£o sei.
 
 297
 00:28:08,660 --> 00:28:10,729
-Outra vez, apenas entre nós.
+Outra vez, apenas entre nÃ³s.
 
 298
 00:28:13,431 --> 00:28:14,601
@@ -1321,7 +1321,7 @@ Stephen!
 
 301
 00:28:43,795 --> 00:28:45,465
-Eles não conseguem acha-lo em lugar nenhum.
+Eles nÃ£o conseguem acha-lo em lugar nenhum.
 
 302
 00:28:49,268 --> 00:28:51,003
@@ -1329,25 +1329,25 @@ Minhas sinceras desculpas, Coronel.
 
 303
 00:28:51,103 --> 00:28:53,805
-A verdade é, Capitão, que o senhor
-Loboda tem o hábito de desaparecer...
+A verdade Ã©, CapitÃ£o, que o senhor
+Loboda tem o hÃ¡bito de desaparecer...
 
 304
 00:28:54,474 --> 00:28:57,677
 Como o senhor Nowak sabe muito bem.
-Ele é um homem muito complicado.
+Ele Ã© um homem muito complicado.
 
 305
 00:28:58,076 --> 00:29:00,313
-Algumas vezes a sua imaginação o atrapalha.
+Algumas vezes a sua imaginaÃ§Ã£o o atrapalha.
 
 306
 00:29:01,080 --> 00:29:01,848
-Nós vamos encontra-lo.
+NÃ³s vamos encontra-lo.
 
 307
 00:29:19,265 --> 00:29:20,800
-Você contará a eles sobre a caixa?
+VocÃª contarÃ¡ a eles sobre a caixa?
 
 308
 00:29:20,900 --> 00:29:22,369
@@ -1355,7 +1355,7 @@ Continua pensando que eu fiz a coisa errada?
 
 309
 00:29:37,882 --> 00:29:39,552
-Ele não pode simplesmente desaparecer.
+Ele nÃ£o pode simplesmente desaparecer.
 
 310
 00:29:40,152 --> 00:29:43,622
@@ -1364,12 +1364,12 @@ Descubra para onde.
 
 311
 00:29:56,768 --> 00:29:58,771
-<i>’Dia, Mabel.
-Ricardo ainda está aqui?</i>
+<i>Â’Dia, Mabel.
+Ricardo ainda estÃ¡ aqui?</i>
 
 312
 00:30:00,739 --> 00:30:03,175
-Meu pai queria saber de onde você tirou isso.
+Meu pai queria saber de onde vocÃª tirou isso.
 
 313
 00:30:08,581 --> 00:30:09,381
@@ -1377,11 +1377,11 @@ Por que?
 
 314
 00:30:10,417 --> 00:30:11,516
-Ele disse que é extremamente valioso.
+Ele disse que Ã© extremamente valioso.
 
 315
 00:30:11,617 --> 00:30:12,652
-E que você deveria ser muito cuidadoso.
+E que vocÃª deveria ser muito cuidadoso.
 
 316
 00:30:15,187 --> 00:30:16,022
@@ -1389,7 +1389,7 @@ Obrigado.
 
 317
 00:30:25,430 --> 00:30:27,632
-<i>Eu não sei o que está acontecendo.</i>
+<i>Eu nÃ£o sei o que estÃ¡ acontecendo.</i>
 
 318
 00:30:28,266 --> 00:30:30,635
@@ -1397,7 +1397,7 @@ Obrigado.
 
 319
 00:30:31,169 --> 00:30:33,872
-<i>Os guardas soviéticos vieram e nos mandaram sair.</i>
+<i>Os guardas soviÃ©ticos vieram e nos mandaram sair.</i>
 
 320
 00:30:34,841 --> 00:30:36,409
@@ -1405,7 +1405,7 @@ Obrigado.
 
 321
 00:30:37,776 --> 00:30:39,746
-<i>Fomos colocado em grandes peruas de prisão.</i>
+<i>Fomos colocado em grandes peruas de prisÃ£o.</i>
 
 322
 00:30:40,713 --> 00:30:41,815
@@ -1433,7 +1433,7 @@ Precisa de alguma coisa?
 
 328
 00:32:36,896 --> 00:32:37,731
-Não imagina?
+NÃ£o imagina?
 
 329
 00:32:49,708 --> 00:32:50,776
@@ -1441,17 +1441,17 @@ Por que um russo...
 
 330
 00:32:51,910 --> 00:32:56,216
-possui o diário, cartas
+possui o diÃ¡rio, cartas
 e coisas pessoais
 
 331
 00:32:56,315 --> 00:32:57,883
-de um jovem cadete polonês,
+de um jovem cadete polonÃªs,
 
 332
 00:32:58,383 --> 00:33:01,887
 Aprisionado num campo de
-Prisioneiros de Guerra dos soviéticos?
+Prisioneiros de Guerra dos soviÃ©ticos?
 
 333
 00:33:02,721 --> 00:33:03,756
@@ -1463,12 +1463,12 @@ E por que ele pensa que todo mundo quer mata-lo?
 
 335
 00:33:10,729 --> 00:33:13,966
-Eu realmente não faço ideia
-do que o senhor está falando, senhor Underwood.
+Eu realmente nÃ£o faÃ§o ideia
+do que o senhor estÃ¡ falando, senhor Underwood.
 
 336
 00:33:14,900 --> 00:33:16,601
-Peço desculpas,
+PeÃ§o desculpas,
 Tenho outras coisas a fazdr.
 
 337
@@ -1481,22 +1481,22 @@ Eu quero ajudar.
 
 339
 00:33:21,774 --> 00:33:24,407
-Não, senhor Underwood,
-você quer uma matéria.
+NÃ£o, senhor Underwood,
+vocÃª quer uma matÃ©ria.
 
 340
 00:33:24,409 --> 00:33:26,779
-Sim, eu quero a matéria, e
-então nós dois teremos o que queremos.
+Sim, eu quero a matÃ©ria, e
+entÃ£o nÃ³s dois teremos o que queremos.
 
 341
 00:33:27,845 --> 00:33:29,448
-Acredite-me, não á nada que você possa fazer.
+Acredite-me, nÃ£o Ã¡ nada que vocÃª possa fazer.
 
 342
 00:33:29,782 --> 00:33:32,252
-Se você quer mesmo ajudar,
-então traga a caixa de volta para mim.
+Se vocÃª quer mesmo ajudar,
+entÃ£o traga a caixa de volta para mim.
 
 343
 00:33:32,752 --> 00:33:33,787
@@ -1512,7 +1512,7 @@ Coronel. Coronel!
 
 346
 00:33:42,928 --> 00:33:43,996
-Então eu vou...
+EntÃ£o eu vou...
 
 347
 00:33:45,030 --> 00:33:47,267
@@ -1521,7 +1521,7 @@ e vou dizer a eles onde eu a consegui.
 
 348
 00:33:50,002 --> 00:33:51,838
-Eu tenho o diário e as cartas traduzidas.
+Eu tenho o diÃ¡rio e as cartas traduzidas.
 
 349
 00:33:56,809 --> 00:33:58,011
@@ -1533,20 +1533,20 @@ Espere aqui.
 
 351
 00:34:43,622 --> 00:34:45,825
-Meu ajudante irá leva-lo ao encontro do Loboda.
+Meu ajudante irÃ¡ leva-lo ao encontro do Loboda.
 
 352
 00:34:46,291 --> 00:34:47,659
-Então você sabe onde ele está?
+EntÃ£o vocÃª sabe onde ele estÃ¡?
 
 353
 00:34:52,530 --> 00:34:54,432
-Até que você saiba a verdade,
-você pode fazer o melhor que puder.
+AtÃ© que vocÃª saiba a verdade,
+vocÃª pode fazer o melhor que puder.
 
 354
 00:34:54,532 --> 00:34:56,334
-mas eu não vou ajuda-lo em mais nada.
+mas eu nÃ£o vou ajuda-lo em mais nada.
 
 355
 00:34:56,903 --> 00:34:59,305
@@ -1555,7 +1555,7 @@ ou conhecimento sobre esse assunto!
 
 356
 00:34:59,405 --> 00:35:00,907
-E você não verá Loboda outra vez.
+E vocÃª nÃ£o verÃ¡ Loboda outra vez.
 
 357
 00:35:03,008 --> 00:35:04,142
@@ -1567,7 +1567,7 @@ Aqui, as cinco horas.
 
 359
 00:35:23,496 --> 00:35:24,898
-Viremos apanha-lo e leva-lo até ele.
+Viremos apanha-lo e leva-lo atÃ© ele.
 
 360
 00:35:26,564 --> 00:35:27,400
@@ -1575,15 +1575,15 @@ Venha sozinho.
 
 361
 00:35:28,566 --> 00:35:30,035
-Como vou saber se posso confiar em você?
+Como vou saber se posso confiar em vocÃª?
 
 362
 00:35:31,037 --> 00:35:32,038
-Não saberá.
+NÃ£o saberÃ¡.
 
 363
 00:35:32,939 --> 00:35:35,909
-Então eu vou, ahn, entrevistar o Loboda.
+EntÃ£o eu vou, ahn, entrevistar o Loboda.
 
 364
 00:35:36,842 --> 00:35:38,945
@@ -1592,8 +1592,8 @@ Então eu vou, ahn, entrevistar o Loboda.
 
 365
 00:35:40,079 --> 00:35:41,514
-Enquanto você tiver a caixa,
-Eu não tenho nada.
+Enquanto vocÃª tiver a caixa,
+Eu nÃ£o tenho nada.
 
 366
 00:35:44,916 --> 00:35:46,119
@@ -1601,8 +1601,8 @@ Isso pode ser arranjado.
 
 367
 00:35:47,153 --> 00:35:50,023
-E,ahn, eu levarei aquelas traduções,
-se você não se importar.
+E,ahn, eu levarei aquelas traduÃ§Ãµes,
+se vocÃª nÃ£o se importar.
 
 368
 00:35:55,128 --> 00:35:55,928
@@ -1610,21 +1610,21 @@ Obrigado.
 
 369
 00:36:43,709 --> 00:36:45,644
-Eu espero que você pague pelos danos.
+Eu espero que vocÃª pague pelos danos.
 
 370
 00:36:46,043 --> 00:36:47,746
 - Quem fez isso?
-- A polícia.
+- A polÃ­cia.
 
 371
 00:36:48,747 --> 00:36:52,184
-Eles disseram que você é suspeito
+Eles disseram que vocÃª Ã© suspeito
 de possuir contrabando.
 
 372
 00:36:52,383 --> 00:36:54,119
-Isso é ridículo e você sabe disso.
+Isso Ã© ridÃ­culo e vocÃª sabe disso.
 
 373
 00:36:54,419 --> 00:36:56,688
@@ -1633,11 +1633,11 @@ Bem, sinto muito, mas, ahn...
 374
 00:36:56,988 --> 00:37:01,026
 Com todas essas vindas e vindas suas ultimamente,
-eu realmente não sei.
+eu realmente nÃ£o sei.
 
 375
 00:37:02,028 --> 00:37:05,030
-Aqui ainda é a minha casa...
+Aqui ainda Ã© a minha casa...
 
 376
 00:37:05,430 --> 00:37:07,467
@@ -1663,20 +1663,20 @@ Sinto muito.
 
 381
 00:37:39,231 --> 00:37:40,066
-Então tudo acabou.
+EntÃ£o tudo acabou.
 
 382
 00:37:41,166 --> 00:37:43,869
 - Eu estou indo ver o Loboda.
-- Você sabe onde ele está?
+- VocÃª sabe onde ele estÃ¡?
 
 383
 00:37:44,202 --> 00:37:45,237
-Pietrowski está com ele.
+Pietrowski estÃ¡ com ele.
 
 384
 00:37:46,338 --> 00:37:48,240
-Então como você que não foi ele quem pegou a caixa?
+EntÃ£o como vocÃª que nÃ£o foi ele quem pegou a caixa?
 
 385
 00:37:48,608 --> 00:37:51,044
@@ -1685,12 +1685,12 @@ se ele me deixasse falar com o Loboda.
 
 386
 00:37:52,276 --> 00:37:53,579
-Como você sabe que ele não está mentindo?
+Como vocÃª sabe que ele nÃ£o estÃ¡ mentindo?
 
 387
 00:37:53,678 --> 00:37:55,847
-Você não tem idéia de quem essas
-pessoas realmente são.
+VocÃª nÃ£o tem idÃ©ia de quem essas
+pessoas realmente sÃ£o.
 
 388
 00:37:56,881 --> 00:37:57,849
@@ -1698,7 +1698,7 @@ Eu preciso saber.
 
 389
 00:37:59,050 --> 00:38:00,686
-Você não tem nada a ver com isso.
+VocÃª nÃ£o tem nada a ver com isso.
 
 390
 00:38:07,726 --> 00:38:09,195
@@ -1706,7 +1706,7 @@ Se alguma coisa me acontecer,
 
 391
 00:38:10,195 --> 00:38:11,664
-Quero que você entregue isto para a polícia.
+Quero que vocÃª entregue isto para a polÃ­cia.
 
 392
 00:38:14,166 --> 00:38:15,168
@@ -1718,11 +1718,11 @@ Espere aqui.
 
 394
 00:41:10,342 --> 00:41:11,811
-Eles me disseram que poderia confiar em você.
+Eles me disseram que poderia confiar em vocÃª.
 
 395
 00:41:13,378 --> 00:41:15,280
-Que eu posso contar tudo para você.
+Que eu posso contar tudo para vocÃª.
 
 396
 00:41:18,215 --> 00:41:19,017
@@ -1730,19 +1730,19 @@ Sim.
 
 397
 00:41:20,418 --> 00:41:21,853
-Você pegou a caixa?
+VocÃª pegou a caixa?
 
 398
 00:41:27,258 --> 00:41:29,262
-Como vou confiar em um ladrão?
+Como vou confiar em um ladrÃ£o?
 
 399
 00:41:32,430 --> 00:41:34,066
-Não quis causar nenhum mal.
+NÃ£o quis causar nenhum mal.
 
 400
 00:41:35,934 --> 00:41:37,336
-Você colocou isso no jornal?
+VocÃª colocou isso no jornal?
 
 401
 00:41:40,939 --> 00:41:42,508
@@ -1754,7 +1754,7 @@ Por favor sente-se.
 
 403
 00:42:39,597 --> 00:42:42,034
-Meu nome é Ivan Krivozertsev.
+Meu nome Ã© Ivan Krivozertsev.
 
 404
 00:42:46,303 --> 00:42:48,374
@@ -1770,7 +1770,7 @@ Nove Biatoki.
 
 407
 00:42:55,314 --> 00:42:59,151
-Eu estava lá quando eles
+Eu estava lÃ¡ quando eles
 vieram pela primeira vez...
 
 408
@@ -1784,7 +1784,7 @@ eram finlandeses.</i>
 
 410
 00:43:23,874 --> 00:43:27,412
-<i>viu os seus chapéus de quatro pontas.</i>
+<i>viu os seus chapÃ©us de quatro pontas.</i>
 
 411
 00:43:34,352 --> 00:43:36,188
@@ -1803,15 +1803,15 @@ Iam para a floresta.</i>
 414
 00:44:20,631 --> 00:44:26,639
 Na floresta, os bolcheviques
-amarravam as mãos deles para trás.
+amarravam as mÃ£os deles para trÃ¡s.
 
 415
 00:44:28,374 --> 00:44:30,042
-<i>Uma corda em volta do pescoço...</i>
+<i>Uma corda em volta do pescoÃ§o...</i>
 
 416
 00:44:31,876 --> 00:44:34,712
-<i>que o estragulava se você se mexesse.</i>
+<i>que o estragulava se vocÃª se mexesse.</i>
 
 417
 00:44:42,653 --> 00:44:43,755
@@ -1823,7 +1823,7 @@ Eles os punham...
 
 419
 00:44:47,425 --> 00:44:48,160
-<i>no chão.</i>
+<i>no chÃ£o.</i>
 
 420
 00:44:50,061 --> 00:44:50,962
@@ -1835,7 +1835,7 @@ Eles os punham...
 
 422
 00:44:55,066 --> 00:44:56,568
-<i>atrás da nuca.</i>
+<i>atrÃ¡s da nuca.</i>
 
 423
 00:44:59,704 --> 00:45:00,939
@@ -1847,12 +1847,12 @@ os corpos caindo na vala...
 
 425
 00:45:08,246 --> 00:45:10,615
-rosto para o chão.
+rosto para o chÃ£o.
 
 426
 00:45:16,521 --> 00:45:19,991
 E as armas eram carregadas
-para o próximo grupo.
+para o prÃ³ximo grupo.
 
 427
 00:45:21,459 --> 00:45:23,496
@@ -1860,12 +1860,12 @@ Outra vez, outra vez de novo...
 
 428
 00:45:24,662 --> 00:45:27,099
-Até o trabalho estar terminado.
+AtÃ© o trabalho estar terminado.
 
 429
 00:45:35,941 --> 00:45:39,778
-Quando os alemães vieram,
-eles tinham polacos também.
+Quando os alemÃ£es vieram,
+eles tinham polacos tambÃ©m.
 
 430
 00:45:40,477 --> 00:45:41,546
@@ -1878,7 +1878,7 @@ eles tinham polacos também.
 432
 00:45:48,486 --> 00:45:50,356
 <i>Primeiro,
-Não pareciam alemães.</i>
+NÃ£o pareciam alemÃ£es.</i>
 
 433
 00:45:51,990 --> 00:45:53,592
@@ -1886,16 +1886,16 @@ Não pareciam alemães.</i>
 
 434
 00:46:07,671 --> 00:46:10,742
-<i>Então eu disse o que tinha visto...</i>
+<i>EntÃ£o eu disse o que tinha visto...</i>
 
 435
 00:46:14,878 --> 00:46:17,248
-e nós começamos a cavar.
+e nÃ³s comeÃ§amos a cavar.
 
 436
 00:46:24,756 --> 00:46:29,361
 <i>Retirei o livro e cartas
-das mãos de um homenm morto.</i>
+das mÃ£os de um homenm morto.</i>
 
 437
 00:46:30,729 --> 00:46:31,730
@@ -1919,7 +1919,7 @@ Quantos?
 
 442
 00:47:31,423 --> 00:47:34,392
-Na época, mais de 4.000 corpos.
+Na Ã©poca, mais de 4.000 corpos.
 
 443
 00:47:36,260 --> 00:47:38,429
@@ -1929,26 +1929,26 @@ ainda desaparecidos.
 444
 00:47:40,131 --> 00:47:45,770
 A maioria deles oficiais, reservistas,
-advogados, professores… padres.
+advogados, professoresÂ… padres.
 
 445
 00:47:46,604 --> 00:47:50,442
 Stalin sabia que essas pessoas
-nunca capitulariam diante do regime soviético.
+nunca capitulariam diante do regime soviÃ©tico.
 
 446
 00:47:51,977 --> 00:47:54,946
 E os poloneses sabem tudo sobre
-ser ocupado por uma potência estrangeira.
+ser ocupado por uma potÃªncia estrangeira.
 
 447
 00:47:55,079 --> 00:47:56,881
-E isto era o melhor do meu país.
+E isto era o melhor do meu paÃ­s.
 
 448
 00:47:57,648 --> 00:48:00,652
 Eles iriam lutar por sua liberdade
-com qualquer coisa que tivessem nas mãos.
+com qualquer coisa que tivessem nas mÃ£os.
 
 449
 00:48:04,822 --> 00:48:06,757
@@ -1960,7 +1960,7 @@ nunca mais pudesse se erguer das cinzas.
 
 451
 00:48:11,628 --> 00:48:12,930
-E os britânicos?
+E os britÃ¢nicos?
 
 452
 00:48:14,832 --> 00:48:15,668
@@ -1972,13 +1972,13 @@ Claro que sabiam.
 
 454
 00:48:18,436 --> 00:48:21,038
-Os britânicos e os americanos apenas
+Os britÃ¢nicos e os americanos apenas
 queriam que o assunto fosse esquecido.
 
 455
 00:48:21,639 --> 00:48:24,709
-Eles precisavam que o Exército Vermelho
-continuasse a guerra contra os alemães.
+Eles precisavam que o ExÃ©rcito Vermelho
+continuasse a guerra contra os alemÃ£es.
 
 456
 00:48:24,809 --> 00:48:27,178
@@ -1987,47 +1987,47 @@ Temiam que Stalin pudesse negociar a paz com Hitler.
 457
 00:48:29,113 --> 00:48:32,383
 Agora, Stalin tem metade da Europa debaixo
-de suas botas e eles não podem fazer nada.
+de suas botas e eles nÃ£o podem fazer nada.
 
 458
 00:48:34,686 --> 00:48:36,722
-E o meu país está ocupado.
+E o meu paÃ­s estÃ¡ ocupado.
 
 459
 00:48:37,856 --> 00:48:39,725
-E nenhuma critica a Stalin é tolerada.
+E nenhuma critica a Stalin Ã© tolerada.
 
 460
 00:48:41,659 --> 00:48:43,128
-Meu povo é um povo bom.
+Meu povo Ã© um povo bom.
 
 461
 00:48:45,863 --> 00:48:47,699
-Vocês tem que saber o que aconteceu.
+VocÃªs tem que saber o que aconteceu.
 
 462
 00:48:49,668 --> 00:48:50,702
-Vocês devem saber quem é o assassino.
+VocÃªs devem saber quem Ã© o assassino.
 
 463
 00:48:53,171 --> 00:48:54,406
-Nós precisamos das evidências.
+NÃ³s precisamos das evidÃªncias.
 
 464
 00:48:55,374 --> 00:48:57,709
-O diário, as cartas.
+O diÃ¡rio, as cartas.
 
 465
 00:48:59,043 --> 00:49:02,746
-Provas dos assassinatos cometidos em 1940 pelos soviéticos.
+Provas dos assassinatos cometidos em 1940 pelos soviÃ©ticos.
 
 466
 00:49:03,747 --> 00:49:07,318
-E não pelos nazistas em 1941, como todo mundo acredita.
+E nÃ£o pelos nazistas em 1941, como todo mundo acredita.
 
 467
 00:49:13,892 --> 00:49:14,993
-Você trouxe a caixa?
+VocÃª trouxe a caixa?
 
 468
 00:49:21,066 --> 00:49:22,568
@@ -2055,12 +2055,12 @@ Estarei ai em cinco minutos.
 
 474
 00:50:18,956 --> 00:50:21,325
-Que brincadeira idiota você está fazendo?
+Que brincadeira idiota vocÃª estÃ¡ fazendo?
 Estamos no meio da noite.
 
 475
 00:50:21,793 --> 00:50:23,595
-- É muito importante.
+- Ã‰ muito importante.
 - Melhor que seja mesmo.
 
 476
@@ -2073,7 +2073,7 @@ Por que?
 
 478
 00:50:29,066 --> 00:50:31,369
-Soldados poloneses foram levados para lá em 1940.
+Soldados poloneses foram levados para lÃ¡ em 1940.
 
 479
 00:50:32,137 --> 00:50:33,671
@@ -2081,15 +2081,15 @@ Eu preciso saber o que aconteceu com eles.
 
 480
 00:50:34,005 --> 00:50:35,640
-Foi foi Pietrowski quem colocou você a par disso?
+Foi foi Pietrowski quem colocou vocÃª a par disso?
 
 481
 00:50:35,773 --> 00:50:36,707
-Não.
+NÃ£o.
 
 482
 00:50:36,807 --> 00:50:38,610
-Então procure nos jornais.
+EntÃ£o procure nos jornais.
 
 483
 00:50:38,943 --> 00:50:41,012
@@ -2097,11 +2097,11 @@ Eu preciso ver os documentos oficiais.
 
 484
 00:50:41,979 --> 00:50:43,814
-Não posso te ajudar, você sabe disso.
+NÃ£o posso te ajudar, vocÃª sabe disso.
 
 485
 00:50:44,782 --> 00:50:47,251
-Na minha posição, eu não posso ser visto
+Na minha posiÃ§Ã£o, eu nÃ£o posso ser visto
 confraternizando com jornalistas.
 
 486
@@ -2114,7 +2114,7 @@ John, por favor.
 
 488
 00:50:51,889 --> 00:50:53,156
-Isso poderia explicar os suicídios.
+Isso poderia explicar os suicÃ­dios.
 
 489
 00:50:53,925 --> 00:50:56,028
@@ -2127,16 +2127,16 @@ Mais de 4.000 soldados poloneses foram assassinados.
 
 491
 00:51:04,001 --> 00:51:07,139
-Foram os alemães, os nazistas, fim da estória.
+Foram os alemÃ£es, os nazistas, fim da estÃ³ria.
 
 492
 00:51:07,271 --> 00:51:09,006
-- Você sabe sobre isso.
-- É a afirmação oficial.
+- VocÃª sabe sobre isso.
+- Ã‰ a afirmaÃ§Ã£o oficial.
 
 493
 00:51:09,106 --> 00:51:10,675
-Sim, mas você sabe que não é verdade.
+Sim, mas vocÃª sabe que nÃ£o Ã© verdade.
 
 494
 00:51:11,276 --> 00:51:13,044
@@ -2144,34 +2144,34 @@ Eu acredito no que me mandam acreditar.
 
 495
 00:51:14,345 --> 00:51:16,648
-Então você vai enfiar a cabeça num buraco
+EntÃ£o vocÃª vai enfiar a cabeÃ§a num buraco
 e deixar eles escaparem?
 
 496
 00:51:16,814 --> 00:51:19,384
-É o meu trabalho. Agora, vá para casa.
+Ã‰ o meu trabalho. Agora, vÃ¡ para casa.
 
 497
 00:51:19,852 --> 00:51:21,953
-Você foi para a guerra
-para libertar as pessoas da opressão,
+VocÃª foi para a guerra
+para libertar as pessoas da opressÃ£o,
 
 498
 00:51:22,153 --> 00:51:24,255
 para que elas tivessem o direito
-de escolher seu próprio destino.
+de escolher seu prÃ³prio destino.
 
 499
 00:51:24,356 --> 00:51:26,925
-E você vai ficar aqui parado e não fazer nada?
+E vocÃª vai ficar aqui parado e nÃ£o fazer nada?
 
 500
 00:51:27,291 --> 00:51:28,360
-Vá para casa, Stephen.
+VÃ¡ para casa, Stephen.
 
 501
 00:51:29,193 --> 00:51:30,928
-Pare de tentar ser alguém que você não é.
+Pare de tentar ser alguÃ©m que vocÃª nÃ£o Ã©.
 
 502
 00:51:32,631 --> 00:51:33,364
@@ -2179,7 +2179,7 @@ Eu fiz isso.
 
 503
 00:51:33,831 --> 00:51:36,667
-Você foi para a guerra e eu fiquei.
+VocÃª foi para a guerra e eu fiquei.
 Eu fiz o que disseram.
 
 504
@@ -2189,32 +2189,32 @@ eu tenho uma coisa para acreditar.
 
 505
 00:51:40,872 --> 00:51:42,874
-Não seja criança. A guerra acabou.
+NÃ£o seja crianÃ§a. A guerra acabou.
 
 506
 00:51:43,508 --> 00:51:44,842
-Você quer realmente começar outra...
+VocÃª quer realmente comeÃ§ar outra...
 
 507
 00:51:44,943 --> 00:51:46,711
 apenas para apaziguar
-o seu senso de inadequação?
+o seu senso de inadequaÃ§Ã£o?
 
 508
 00:51:46,843 --> 00:51:48,213
-Você não teve que servir, seja agradecido.
+VocÃª nÃ£o teve que servir, seja agradecido.
 
 509
 00:51:50,947 --> 00:51:51,716
-Não.
+NÃ£o.
 
 510
 00:51:53,050 --> 00:51:54,085
-Você está certo.
+VocÃª estÃ¡ certo.
 
 511
 00:51:56,854 --> 00:51:59,724
-Eu não pude servir...
+Eu nÃ£o pude servir...
 por isso.
 
 512
@@ -2229,24 +2229,24 @@ Eu o encontrei em Cambridge.
 514
 00:52:18,910 --> 00:52:21,113
 Agora ele trabalha no arquivo
-das Relações Exteriores.
+das RelaÃ§Ãµes Exteriores.
 
 515
 00:52:22,345 --> 00:52:25,516
-Se isso estiver lá… ele saberá onde achar.
+Se isso estiver lÃ¡Â… ele saberÃ¡ onde achar.
 
 516
 00:52:28,919 --> 00:52:30,555
-Este é a meu passe de transporte.
+Este Ã© a meu passe de transporte.
 
 517
 00:52:31,889 --> 00:52:35,126
-E, ahn... e isso fará com que
-você passe pelo portão.
+E, ahn... e isso farÃ¡ com que
+vocÃª passe pelo portÃ£o.
 
 518
 00:52:40,697 --> 00:52:43,567
-Você pode improvisar. Agora cai fora.
+VocÃª pode improvisar. Agora cai fora.
 
 519
 00:52:46,570 --> 00:52:48,472
@@ -2256,7 +2256,7 @@ o acidente.
 520
 00:52:48,939 --> 00:52:52,077
 Foi minha culpa e eu sei
-que você perdeu sua visão direita.
+que vocÃª perdeu sua visÃ£o direita.
 
 521
 00:52:52,177 --> 00:52:53,111
@@ -2264,17 +2264,17 @@ Me desculpe.
 
 522
 00:53:20,537 --> 00:53:21,405
-Alguém viu ele?
+AlguÃ©m viu ele?
 
 523
 00:53:22,374 --> 00:53:24,076
 - Sim.
-- Onde ele está?
+- Onde ele estÃ¡?
 
 524
 00:53:30,948 --> 00:53:33,017
-Só existe uma fazenda
-na área onde cresce isto.
+SÃ³ existe uma fazenda
+na Ã¡rea onde cresce isto.
 
 525
 00:53:38,021 --> 00:53:39,224
@@ -2282,11 +2282,11 @@ Estou indo a Londres.
 
 526
 00:53:40,959 --> 00:53:43,227
-Preciso de você para guardar estas traduções.
+Preciso de vocÃª para guardar estas traduÃ§Ãµes.
 
 527
 00:53:46,798 --> 00:53:47,599
-Não vá.
+NÃ£o vÃ¡.
 
 528
 00:53:49,568 --> 00:53:51,535
@@ -2295,47 +2295,47 @@ Não vá.
 
 529
 00:53:57,441 --> 00:53:59,144
-<i>Você deixou isso crescer demais.</i>
+<i>VocÃª deixou isso crescer demais.</i>
 
 530
 00:54:00,577 --> 00:54:02,014
-Apesar de tudo o que aconteceu…
+Apesar de tudo o que aconteceuÂ…
 
 531
 00:54:04,014 --> 00:54:06,017
-você tem que acreditar
-que ainda me preocupo com você.
+vocÃª tem que acreditar
+que ainda me preocupo com vocÃª.
 
 532
 00:54:07,485 --> 00:54:10,255
-Então... apenas me deixe sozinha.
+EntÃ£o... apenas me deixe sozinha.
 
 533
 00:54:11,456 --> 00:54:15,392
-É o seu Stephen que está fazendo a
+Ã‰ o seu Stephen que estÃ¡ fazendo a
 vida ficar mais dificil.
 
 534
 00:54:15,492 --> 00:54:17,228
-Ele colocou você nisso, não eu.
+Ele colocou vocÃª nisso, nÃ£o eu.
 
 535
 00:54:19,197 --> 00:54:23,235
-Só... Só me diga o que ele está fazendo.
+SÃ³... SÃ³ me diga o que ele estÃ¡ fazendo.
 
 536
 00:54:26,537 --> 00:54:28,072
-Ele sabe onde ele está, não sabe?
+Ele sabe onde ele estÃ¡, nÃ£o sabe?
 
 537
 00:54:31,008 --> 00:54:34,612
-Você tem que entender, isso não é mais
-sobre você e o Underwood.
+VocÃª tem que entender, isso nÃ£o Ã© mais
+sobre vocÃª e o Underwood.
 
 538
 00:54:36,079 --> 00:54:40,083
-Você está se envolvendo
-em uma coisa muito sensível...
+VocÃª estÃ¡ se envolvendo
+em uma coisa muito sensÃ­vel...
 
 539
 00:54:40,184 --> 00:54:42,053
@@ -2343,16 +2343,16 @@ e potencialmente muito perigosa.
 
 540
 00:54:42,653 --> 00:54:44,054
-Stephen está em perigo?
+Stephen estÃ¡ em perigo?
 
 541
 00:54:44,521 --> 00:54:47,424
-Se ele disseram a você onde
-eles estão escondendo o russo,
+Se ele disseram a vocÃª onde
+eles estÃ£o escondendo o russo,
 
 542
 00:54:47,525 --> 00:54:49,227
-Você tem que me dizer, agora.
+VocÃª tem que me dizer, agora.
 
 543
 00:54:54,131 --> 00:54:54,900
@@ -2360,45 +2360,45 @@ Veja
 
 544
 00:54:58,802 --> 00:55:00,271
-Você me diz o que sabe...
+VocÃª me diz o que sabe...
 
 545
 00:55:02,039 --> 00:55:04,075
-e você poderá continuar a ver o Underwood.
+e vocÃª poderÃ¡ continuar a ver o Underwood.
 
 546
 00:55:06,209 --> 00:55:07,878
-Contanto que vocês não chamem a atenção,
+Contanto que vocÃªs nÃ£o chamem a atenÃ§Ã£o,
 
 547
 00:55:08,246 --> 00:55:10,715
-E não direi uma palavra sobre isso..
+E nÃ£o direi uma palavra sobre isso..
 
 548
 00:55:11,182 --> 00:55:13,118
-Vou simplesmente deixar pra lá.
+Vou simplesmente deixar pra lÃ¡.
 
 549
 00:55:15,119 --> 00:55:18,121
-Eu não acho que qualquer um de nós
-queira um escândalo em nossas vidas agora.
+Eu nÃ£o acho que qualquer um de nÃ³s
+queira um escÃ¢ndalo em nossas vidas agora.
 
 550
 00:55:19,823 --> 00:55:23,360
-E eu acho que nós dois faremos o que puder
-para que isso não aconteça, não é mesmo?
+E eu acho que nÃ³s dois faremos o que puder
+para que isso nÃ£o aconteÃ§a, nÃ£o Ã© mesmo?
 
 551
 00:56:51,000 --> 00:56:53,360
-meus amigos virão...
+meus amigos virÃ£o...
 
 552
 00:56:56,000 --> 00:56:58,000
-Ninguém virá, Ivan.
+NinguÃ©m virÃ¡, Ivan.
 
 553
 00:57:01,500 --> 00:57:02,900
-E você estará livre para ir.
+E vocÃª estarÃ¡ livre para ir.
 
 554
 00:57:06,200 --> 00:57:09,400
@@ -2406,15 +2406,15 @@ Um amigo. De casa.
 
 555
 00:57:16,200 --> 00:57:18,500
-Não sente saudade de sua fazenda?
+NÃ£o sente saudade de sua fazenda?
 
 556
 00:57:22,500 --> 00:57:26,000
-De falar em sua própria língua?
+De falar em sua prÃ³pria lÃ­ngua?
 
 557
 00:57:31,000 --> 00:57:33,500
-apanhando maçãs.
+apanhando maÃ§Ã£s.
 
 558
 00:57:44,000 --> 00:57:47,000
@@ -2427,7 +2427,7 @@ te fizeram,</i>
 
 560
 00:58:04,500 --> 00:58:09,500
-Aqui está. Eu preparei uma declaração para você.
+Aqui estÃ¡. Eu preparei uma declaraÃ§Ã£o para vocÃª.
 
 561
 00:58:14,000 --> 00:58:17,800
@@ -2436,29 +2436,29 @@ construindo estradas em Smolensk.
 
 562
 00:58:25,000 --> 00:58:28,500
-No verão de 1941.
+No verÃ£o de 1941.
 
 563
 00:58:33,500 --> 00:58:38,500
-Vocês então foram obrigados a recuar
+VocÃªs entÃ£o foram obrigados a recuar
 com os covardes nazistas de Hitler,
 
 564
 00:58:41,500 --> 00:58:51,500
-e eles então falsamente acusaram
-a Rússia Soviética desses crimes
+e eles entÃ£o falsamente acusaram
+a RÃºssia SoviÃ©tica desses crimes
 
 565
 00:58:58,500 --> 00:59:02,500
-Você sabe que ninguém acredita mais nisso.
+VocÃª sabe que ninguÃ©m acredita mais nisso.
 
 566
 00:59:13,000 --> 00:59:16,500
-E você estará livre para ir.
+E vocÃª estarÃ¡ livre para ir.
 
 567
 00:59:27,500 --> 00:59:28,500
-Não.
+NÃ£o.
 
 568
 00:59:36,481 --> 00:59:41,518
@@ -2466,16 +2466,16 @@ Ignorante. Um porco tolo e ignorante.
 
 569
 00:59:43,421 --> 00:59:45,557
-Você realmente acha que
-alguém se importa com você?
+VocÃª realmente acha que
+alguÃ©m se importa com vocÃª?
 
 570
 00:59:46,823 --> 00:59:48,392
-Você acha que os poloneses se importam?
+VocÃª acha que os poloneses se importam?
 
 571
 00:59:49,360 --> 00:59:52,563
-Ninguém liga para o que você tem a dizer!
+NinguÃ©m liga para o que vocÃª tem a dizer!
 
 572
 01:01:01,532 --> 01:01:02,300
@@ -2487,38 +2487,38 @@ Sim.
 
 574
 01:01:05,401 --> 01:01:07,438
-Eu servi com seu irmão na Austria.
+Eu servi com seu irmÃ£o na Austria.
 
 575
 01:01:08,439 --> 01:01:09,474
-Ele é um homem bom.
+Ele Ã© um homem bom.
 
 576
 01:01:17,782 --> 01:01:20,452
-Um endereço e um mapa.
+Um endereÃ§o e um mapa.
 
 577
 01:01:23,921 --> 01:01:26,658
-O que o senhor quer é muito melindroso.
+O que o senhor quer Ã© muito melindroso.
 Foi logo arquivado.
 
 578
 01:01:29,226 --> 01:01:31,162
-O “X” marca a localização, como pediu.
+O Â“XÂ” marca a localizaÃ§Ã£o, como pediu.
 
 579
 01:01:36,700 --> 01:01:39,070
-As coisas não são mais as mesmas,
+As coisas nÃ£o sÃ£o mais as mesmas,
 senhor Underwood.
 
 580
 01:01:40,405 --> 01:01:43,073
-Durante a guerra nós sabiamos
+Durante a guerra nÃ³s sabiamos
 o que precisavamos fazer.
 
 581
 01:01:43,206 --> 01:01:46,243
-Deviamos abaixar a cabeça.
+Deviamos abaixar a cabeÃ§a.
 Nunca questionamos nada.
 
 582
@@ -2535,29 +2535,29 @@ Nada mais faz qualquer sentido.
 
 585
 01:01:58,322 --> 01:01:59,724
-Te faz pensar quem está mesmo mandando.
+Te faz pensar quem estÃ¡ mesmo mandando.
 
 586
 01:02:07,999 --> 01:02:10,034
 - Posso te pagar uma bebida?
-- Não.
+- NÃ£o.
 
 587
 01:02:10,800 --> 01:02:11,936
-Não, Eu não posso ficar.
+NÃ£o, Eu nÃ£o posso ficar.
 
 588
 01:02:12,503 --> 01:02:14,972
 Se houver alguma coisa
-que eu possa fazer por você.
+que eu possa fazer por vocÃª.
 
 589
 01:02:15,072 --> 01:02:17,107
-Não, por favor, não se preocupe.
+NÃ£o, por favor, nÃ£o se preocupe.
 
 590
 01:02:19,642 --> 01:02:21,646
-Alguma coisa para aliviar o tédio.
+Alguma coisa para aliviar o tÃ©dio.
 
 591
 01:02:23,113 --> 01:02:26,650
@@ -2566,29 +2566,29 @@ naquele arquivo, entende?
 
 592
 01:02:26,782 --> 01:02:28,318
-Até os meus olhos ficam empoeirados.
+AtÃ© os meus olhos ficam empoeirados.
 
 593
 01:02:30,553 --> 01:02:31,722
-Não que alguém notasse.
+NÃ£o que alguÃ©m notasse.
 
 594
 01:02:34,959 --> 01:02:37,529
-Minhas lembranças ao seu irmão, e boa sorte.
+Minhas lembranÃ§as ao seu irmÃ£o, e boa sorte.
 
 595
 01:03:22,773 --> 01:03:25,642
-Capitão Underwood.
-Está requisitando um acompanhante, senhor?
+CapitÃ£o Underwood.
+EstÃ¡ requisitando um acompanhante, senhor?
 
 596
 01:05:41,811 --> 01:05:45,515
-<i>"EMBAIXADOR: Com as evidências que temos,
-é dificil escapar...</i>
+<i>"EMBAIXADOR: Com as evidÃªncias que temos,
+Ã© dificil escapar...</i>
 
 597
 01:05:45,648 --> 01:05:48,051
-<i>da presunção de culpa dos russos.</i>
+<i>da presunÃ§Ã£o de culpa dos russos.</i>
 
 598
 01:05:49,486 --> 01:05:52,189
@@ -2603,20 +2603,20 @@ os poloneses vivam amigavelmente</i>
 600
 01:05:55,726 --> 01:05:59,197
 <i> lado a lado com os russos
-pelas próximas gerações?"</i>
+pelas prÃ³ximas geraÃ§Ãµes?"</i>
 
 601
 01:06:04,001 --> 01:06:06,437
-<i>"EMBAIXADOR: Este documento é explosivo,</i>
+<i>"EMBAIXADOR: Este documento Ã© explosivo,</i>
 
 602
 01:06:07,003 --> 01:06:09,772
-<i>se cair em mãos não autorizadas,</i>
+<i>se cair em mÃ£os nÃ£o autorizadas,</i>
 
 603
 01:06:10,541 --> 01:06:15,178
-<i>as consequências em nossa relação
-com os russos estarão abaladas."</i>
+<i>as consequÃªncias em nossa relaÃ§Ã£o
+com os russos estarÃ£o abaladas."</i>
 
 604
 01:06:31,360 --> 01:06:35,932
@@ -2624,21 +2624,21 @@ com os russos estarão abaladas."</i>
 
 605
 01:06:36,967 --> 01:06:39,336
-<i>nós estamos constrangidos</i>
+<i>nÃ³s estamos constrangidos</i>
 
 606
 01:06:39,769 --> 01:06:44,006
-<i>pela urgente necessidade de manter relações
-cordiais com o governo soviético
+<i>pela urgente necessidade de manter relaÃ§Ãµes
+cordiais com o governo soviÃ©tico
 </i>
 
 607
 01:06:44,740 --> 01:06:47,811
-<i>ao apreciar as evidências</i>
+<i>ao apreciar as evidÃªncias</i>
 
 608
 01:06:47,945 --> 01:06:51,048
-<i>com mais hesitação e leniência</i>
+<i>com mais hesitaÃ§Ã£o e leniÃªncia</i>
 
 609
 01:06:51,749 --> 01:06:55,820
@@ -2647,7 +2647,7 @@ em um julgamento de senso-comum.</i>
 
 610
 01:07:00,823 --> 01:07:04,262
-<i>EMBAIXADOR: Nós temos, de fato, por força,</i>
+<i>EMBAIXADOR: NÃ³s temos, de fato, por forÃ§a,</i>
 
 611
 01:07:04,961 --> 01:07:07,264
@@ -2656,7 +2656,7 @@ em um julgamento de senso-comum.</i>
 612
 01:07:07,963 --> 01:07:12,936
 <i>como os assassinos usaram as pequenas
-coníferas para acorbertar o crime."</i>
+conÃ­feras para acorbertar o crime."</i>
 
 613
 01:07:51,842 --> 01:07:54,744
@@ -2669,25 +2669,25 @@ coníferas para acorbertar o crime."</i>
 615
 01:07:57,814 --> 01:08:00,985
 <i>Nunca falar sobre isso
-é o conselho que estamos dando</i>
+Ã© o conselho que estamos dando</i>
 
 616
 01:08:01,084 --> 01:08:05,222
 <i>para o governo da Polonia,
-mas isso é desnecessário.</i>
+mas isso Ã© desnecessÃ¡rio.</i>
 
 617
 01:08:06,957 --> 01:08:09,726
-<i>Aflição e residência naquele país</i>
+<i>AfliÃ§Ã£o e residÃªncia naquele paÃ­s</i>
 
 618
 01:08:09,994 --> 01:08:13,664
 <i>parecem ensinar a eles
-que é muito melhor, na vida política...</>
+que Ã© muito melhor, na vida polÃ­tica...</>
 
 619
 01:08:13,963 --> 01:08:16,665
-<i>deixar como não ditas estas coisas</i>
+<i>deixar como nÃ£o ditas estas coisas</i>
 
 620
 01:08:16,799 --> 01:08:19,336
@@ -2700,29 +2700,29 @@ Coronel.
 
 622
 01:09:02,946 --> 01:09:03,947
-Eu vi os papéis.
+Eu vi os papÃ©is.
 
 623
 01:09:05,648 --> 01:09:07,919
-Um relatório de Owen O'Malley,
+Um relatÃ³rio de Owen O'Malley,
 
 624
 01:09:08,884 --> 01:09:10,353
-o Embaixador Britânico na Polonia.
+o Embaixador BritÃ¢nico na Polonia.
 
 625
 01:09:13,089 --> 01:09:14,891
-Vocês estão certo,
+VocÃªs estÃ£o certo,
 eles sabiam de tudo.
 
 626
 01:09:17,928 --> 01:09:19,930
-Ivan Krivozertsev está morto.
+Ivan Krivozertsev estÃ¡ morto.
 
 627
 01:09:26,003 --> 01:09:28,104
 Foi encontrado ontem,
-enforcado em uma árvore.
+enforcado em uma Ã¡rvore.
 
 628
 01:09:29,339 --> 01:09:30,207
@@ -2730,9 +2730,9 @@ Ao anoitecer.
 
 629
 01:09:40,916 --> 01:09:44,955
-Como vê, senhor Underwood,
+Como vÃª, senhor Underwood,
 Eu duvido que foi dada uma chance
-a alguém para ver aqueles papéis.
+a alguÃ©m para ver aqueles papÃ©is.
 
 630
 01:09:49,559 --> 01:09:50,327
@@ -2740,21 +2740,21 @@ Por que, ahn...
 
 631
 01:09:53,562 --> 01:09:54,965
-Por que você não o escondeu antes?
+Por que vocÃª nÃ£o o escondeu antes?
 
 632
 01:09:57,634 --> 01:09:59,002
-Ele não deixou.
+Ele nÃ£o deixou.
 
 633
 01:10:00,137 --> 01:10:03,006
-Foi só quando você pegou a caixa
-é que ele reconsiderou.
+Foi sÃ³ quando vocÃª pegou a caixa
+Ã© que ele reconsiderou.
 
 634
 01:10:07,710 --> 01:10:10,647
 Ele se aproximou da Cruz Veremelha,
-juntou-se às nossas tropas na Itália...
+juntou-se Ã s nossas tropas na ItÃ¡lia...
 
 635
 01:10:11,615 --> 01:10:13,117
@@ -2775,20 +2775,20 @@ Nenhum outro fez isto no Ocidente.
 
 639
 01:10:26,729 --> 01:10:30,034
-Ele foi o único que escapou da área
-quando os Soviéticos a recapturaram.
+Ele foi o Ãºnico que escapou da Ã¡rea
+quando os SoviÃ©ticos a recapturaram.
 
 640
 01:10:34,804 --> 01:10:36,807
-Ele era um embaraço para os soviéticos.
+Ele era um embaraÃ§o para os soviÃ©ticos.
 
 641
 01:10:39,977 --> 01:10:42,013
-Desajustado para os britânicos
+Desajustado para os britÃ¢nicos
 
 642
 01:10:44,046 --> 01:10:46,082
-Dispensável para os americanos.
+DispensÃ¡vel para os americanos.
 
 643
 01:10:49,986 --> 01:10:52,023
@@ -2797,24 +2797,24 @@ Ele se aproximou deles em Nuremberg e...
 644
 01:10:53,357 --> 01:10:56,227
 eles quase o enviaram de volta
-para o setor soviético.
+para o setor soviÃ©tico.
 
 645
 01:11:00,798 --> 01:11:03,267
-Você pode dizer se alguém o viu,
+VocÃª pode dizer se alguÃ©m o viu,
 senhor Underwood?
 
 646
 01:11:06,635 --> 01:11:08,104
-Eu não tive nada a ver com isso.
+Eu nÃ£o tive nada a ver com isso.
 
 647
 01:11:24,987 --> 01:11:25,722
-O que é?
+O que Ã©?
 
 648
 01:11:27,790 --> 01:11:28,825
-O que você disse?
+O que vocÃª disse?
 
 649
 01:11:32,562 --> 01:11:33,329
@@ -2822,16 +2822,16 @@ Me desculpe.
 
 650
 01:11:46,610 --> 01:11:49,280
-Sinto muito, não posso deixar você entrar.
+Sinto muito, nÃ£o posso deixar vocÃª entrar.
 Ordens.
 
 651
 01:11:50,246 --> 01:11:51,548
-Eu tenho que falar com meu irmão.
+Eu tenho que falar com meu irmÃ£o.
 
 652
 01:11:54,217 --> 01:11:55,952
-O Capitão Underwood foi transferido.
+O CapitÃ£o Underwood foi transferido.
 
 653
 01:11:59,055 --> 01:12:00,290
@@ -2839,12 +2839,12 @@ E a tenente Mitchell?
 
 654
 01:12:01,424 --> 01:12:02,159
-Não sei.
+NÃ£o sei.
 
 655
 01:12:18,275 --> 01:12:20,643
-- <i>Número, por favor?</i>
-- Arquivo das Relações Exteriores.
+- <i>NÃºmero, por favor?</i>
+- Arquivo das RelaÃ§Ãµes Exteriores.
 
 656
 01:12:21,210 --> 01:12:22,312
@@ -2863,16 +2863,16 @@ Como posso ajudar?</i>
 659
 01:12:28,919 --> 01:12:30,554
 <i>Eu creio que o senhor Edwards
-já se foi.</i>
+jÃ¡ se foi.</i>
 
 660
 01:12:30,888 --> 01:12:32,089
-Quando ele voltará?
+Quando ele voltarÃ¡?
 
 661
 01:12:32,223 --> 01:12:34,390
 <i>Posso perguntar
-o motivo de sua ligação?</i>
+o motivo de sua ligaÃ§Ã£o?</i>
 
 662
 01:12:36,893 --> 01:12:37,660
@@ -2890,7 +2890,7 @@ Venha pegar o seu Western Post.
 
 665
 01:12:48,504 --> 01:12:49,205
-Direto da impressão!
+Direto da impressÃ£o!
 
 666
 01:12:51,174 --> 01:12:52,209
@@ -2899,7 +2899,7 @@ Obrigado, senhor.
 667
 01:12:55,245 --> 01:12:58,381
 <i>Western Post. Venha pegar o seu Western Post.
-Direto da impressão!</i>
+Direto da impressÃ£o!</i>
 
 668
 01:12:59,582 --> 01:13:00,384
@@ -2912,53 +2912,53 @@ Direto da impressão!</i>
 670
 01:13:04,287 --> 01:13:06,456
 <i>Venha pegar o seu Western Post.
-Direto da impressão!</i>
+Direto da impressÃ£o!</i>
 
 671
 01:13:12,161 --> 01:13:13,229
 Senhor Hamilton,
-posso falar com você?
+posso falar com vocÃª?
 
 672
 01:13:14,964 --> 01:13:18,201
 Me desculpe, Stephen,
-mas você não trabalha mais aqui.
+mas vocÃª nÃ£o trabalha mais aqui.
 
 673
 01:13:19,169 --> 01:13:20,304
-Como é?
+Como Ã©?
 
 674
 01:13:21,571 --> 01:13:25,509
 Ideia mararilhosa... Passar o
-Festival da Sidra para a escriturária.
+Festival da Sidra para a escriturÃ¡ria.
 
 675
 01:13:25,608 --> 01:13:28,778
-Você está certo.
-Ela é uma grande promessa.
+VocÃª estÃ¡ certo.
+Ela Ã© uma grande promessa.
 
 676
 01:13:30,179 --> 01:13:33,217
-É por isso que ela está fazendo
+Ã‰ por isso que ela estÃ¡ fazendo
 o trabalho em seu lugar agora.
 
 677
 01:13:35,251 --> 01:13:39,022
-Agora, aqui está o pagamento do mês.
+Agora, aqui estÃ¡ o pagamento do mÃªs.
 Limpe sua escrivaninha.
 
 678
 01:13:43,326 --> 01:13:44,361
-Eu tenho uma matéria.
+Eu tenho uma matÃ©ria.
 
 679
 01:13:45,161 --> 01:13:46,196
-Não quero ouvir sobre isso.
+NÃ£o quero ouvir sobre isso.
 
 680
 01:13:55,004 --> 01:13:56,839
-O governo britânico está
+O governo britÃ¢nico estÃ¡
 encobrindo o assassinato...
 
 681
@@ -2968,27 +2968,27 @@ e homens poloneses...
 
 682
 01:14:00,643 --> 01:14:02,278
-pelos soviéticos em 1940.
+pelos soviÃ©ticos em 1940.
 
 683
 01:14:05,214 --> 01:14:06,282
-Eles venderam uma nação inteira.
+Eles venderam uma naÃ§Ã£o inteira.
 
 684
 01:14:08,050 --> 01:14:09,053
-Nossos próprios aliados.
+Nossos prÃ³prios aliados.
 
 685
 01:14:09,986 --> 01:14:12,089
-Um país que fomos a guerra para proteger.
+Um paÃ­s que fomos a guerra para proteger.
 
 686
 01:14:12,688 --> 01:14:14,224
-E isso não acaba aqui.
+E isso nÃ£o acaba aqui.
 
 687
 01:14:16,192 --> 01:14:20,230
-Ontem a noite, a última testemunha
+Ontem a noite, a Ãºltima testemunha
 do massacre foi assassinada bem aqui,
 
 688
@@ -3001,11 +3001,11 @@ Bem...
 
 690
 01:14:24,968 --> 01:14:27,204
-Com certeza você tem uma grande imaginação.
+Com certeza vocÃª tem uma grande imaginaÃ§Ã£o.
 
 691
 01:14:32,241 --> 01:14:33,443
-O que eles disseram a você, Frank?
+O que eles disseram a vocÃª, Frank?
 
 692
 01:14:34,244 --> 01:14:35,512
@@ -3013,25 +3013,25 @@ Me desculpe?!
 
 693
 01:14:37,680 --> 01:14:42,518
-Que você… perderia seu trabalho.
+Que vocÃªÂ… perderia seu trabalho.
 Perderia o jornal?
 
 694
 01:14:43,253 --> 01:14:45,522
-Hein? Cairia em desgraça?
+Hein? Cairia em desgraÃ§a?
 
 695
 01:14:47,424 --> 01:14:51,461
-Que o seu dever patriótico
-é não publicar isso?
+Que o seu dever patriÃ³tico
+Ã© nÃ£o publicar isso?
 
 696
 01:14:54,464 --> 01:14:57,567
-Se você não sair agora, eu vou jogar você porta afora.
+Se vocÃª nÃ£o sair agora, eu vou jogar vocÃª porta afora.
 
 697
 01:15:01,704 --> 01:15:04,340
-Guarde seu dinheiro. Eu peço demissão.
+Guarde seu dinheiro. Eu peÃ§o demissÃ£o.
 
 698
 01:16:13,309 --> 01:16:14,343
@@ -3040,27 +3040,27 @@ Oh, senhor Underwood.
 699
 01:16:15,312 --> 01:16:18,180
 Eu estou pensando em redecorar
-num futuro próximo,
+num futuro prÃ³ximo,
 
 700
 01:16:18,313 --> 01:16:20,549
-Então eu tenho que pedir
+EntÃ£o eu tenho que pedir
 o seu quarto de volta.
 
 701
 01:16:21,384 --> 01:16:24,887
-Mas não sou dessas de atirar
+Mas nÃ£o sou dessas de atirar
 os outros no meio da rua,
 
 702
 01:16:24,987 --> 01:16:29,159
-Eu vou, é claro, dar um tempo para que o senhor
-consiga outras acomodações.
+Eu vou, Ã© claro, dar um tempo para que o senhor
+consiga outras acomodaÃ§Ãµes.
 
 703
 01:16:31,361 --> 01:16:33,831
 Duas semanas devem mais do que suficientes,
-está de acordo?
+estÃ¡ de acordo?
 
 704
 01:16:35,331 --> 01:16:36,900
@@ -3068,20 +3068,20 @@ E o senhor tem uma visita.
 
 705
 01:17:05,394 --> 01:17:07,030
-Eu não achava que isto poderia acontecer.
+Eu nÃ£o achava que isto poderia acontecer.
 
 706
 01:17:12,602 --> 01:17:13,570
-O que você fez?
+O que vocÃª fez?
 
 707
 01:17:17,874 --> 01:17:20,110
-Stephen, Eu só queria
-que você estivesse a salvo.
+Stephen, Eu sÃ³ queria
+que vocÃª estivesse a salvo.
 
 708
 01:17:22,178 --> 01:17:23,247
-O que você fez?
+O que vocÃª fez?
 
 709
 01:17:25,415 --> 01:17:29,420
@@ -3090,16 +3090,16 @@ o Loboda e contar tudo para ele.
 
 710
 01:17:32,655 --> 01:17:33,590
-Você contou onde ele estava?
+VocÃª contou onde ele estava?
 
 711
 01:17:42,398 --> 01:17:44,901
-Por que você não me disse que Mason
+Por que vocÃª nÃ£o me disse que Mason
 queria que ele fosse vigiado?
 
 712
 01:17:46,436 --> 01:17:49,473
-Eu não achei que isso ia te impedir!
+Eu nÃ£o achei que isso ia te impedir!
 Eu achava que isso deixaria as coisas piores!
 
 713
@@ -3108,11 +3108,11 @@ Piores?
 
 714
 01:17:54,611 --> 01:17:55,345
-Ele está morto.
+Ele estÃ¡ morto.
 
 715
 01:17:56,412 --> 01:17:58,147
-Encontraram ele pendurado em uma árvore.
+Encontraram ele pendurado em uma Ã¡rvore.
 
 716
 01:17:59,415 --> 01:18:00,150
@@ -3124,7 +3124,7 @@ Se eu pudesse desfazer o que eu fiz.
 
 718
 01:18:05,487 --> 01:18:09,492
-Eu não achava que Mason fosse capaz
+Eu nÃ£o achava que Mason fosse capaz
 de uma coisa dessas. Continuo achando.
 
 719
@@ -3137,34 +3137,34 @@ Levaram-no para Londres.
 
 721
 01:18:25,576 --> 01:18:27,511
-Não será permitido você ve-lo ou falar com ele.
+NÃ£o serÃ¡ permitido vocÃª ve-lo ou falar com ele.
 
 722
 01:18:29,545 --> 01:18:31,080
-Eles estão o enviando
-para um posto fora do país.
+Eles estÃ£o o enviando
+para um posto fora do paÃ­s.
 
 723
 01:18:40,924 --> 01:18:42,693
-Eu não entreguei isso para ele.
+Eu nÃ£o entreguei isso para ele.
 
 724
 01:18:45,495 --> 01:18:46,763
-Elas não significam nada agora.
+Elas nÃ£o significam nada agora.
 
 725
 01:18:54,437 --> 01:18:56,606
-- Quero que você vá embora.
+- Quero que vocÃª vÃ¡ embora.
 - Stephen...
 
 726
 01:19:00,043 --> 01:19:01,577
-Quero que você vá embora agora.
+Quero que vocÃª vÃ¡ embora agora.
 
 727
 01:19:24,201 --> 01:19:27,604
-Um inquérito perante nosso Soberano Senhor Rei,
-na paróquia de Flax Bourton...
+Um inquÃ©rito perante nosso Soberano Senhor Rei,
+na parÃ³quia de Flax Bourton...
 
 728
 01:19:27,737 --> 01:19:31,975
@@ -3184,7 +3184,7 @@ a respeito da morte de Ivan Krivosertsev,
 731
 01:19:39,782 --> 01:19:42,753
 conhecido como Michael Loboda,
-e perante a visão de seu corpo.
+e perante a visÃ£o de seu corpo.
 
 732
 01:19:44,853 --> 01:19:46,822
@@ -3196,7 +3196,7 @@ Elas foram, sir.
 
 734
 01:19:48,491 --> 01:19:49,560
-Bem, vamos iniciar então,
+Bem, vamos iniciar entÃ£o,
 podemos?
 
 735
@@ -3206,11 +3206,11 @@ Era por volta das cinco. Posso dizer.
 736
 01:19:54,531 --> 01:19:58,402
 Eu vinha de Long Orchard.
-Eu, ahn, trabalho lá, você sabe.
+Eu, ahn, trabalho lÃ¡, vocÃª sabe.
 
 737
 01:20:00,370 --> 01:20:01,705
-E pela ponte ferroviária,
+E pela ponte ferroviÃ¡ria,
 
 738
 01:20:02,571 --> 01:20:04,407
@@ -3219,7 +3219,7 @@ vindo dos lados da Court House Farm.
 739
 01:20:06,742 --> 01:20:09,278
 Eu vi esse cavalheiro
-pendurado naquela árvore.
+pendurado naquela Ã¡rvore.
 
 740
 01:20:12,247 --> 01:20:13,616
@@ -3227,17 +3227,17 @@ pendurado naquela árvore.
 
 741
 01:20:20,790 --> 01:20:24,094
-Ele estava pendurado a uns seis de pé de altura,
+Ele estava pendurado a uns seis de pÃ© de altura,
 por uma tira de couro.
 
 742
 01:20:26,929 --> 01:20:30,633
 Parecia que o pobre-coitado tinha enrolado
-a tira em volta do pescoço,
+a tira em volta do pescoÃ§o,
 
 743
 01:20:31,400 --> 01:20:34,437
-subido na árvore, prendido a outra ponta no galho
+subido na Ã¡rvore, prendido a outra ponta no galho
 
 744
 01:20:35,037 --> 01:20:36,572
@@ -3245,21 +3245,21 @@ E pulado.
 
 745
 01:20:38,842 --> 01:20:40,811
-Nós desamarramos a tira
-e o baixamos para o chão.
+NÃ³s desamarramos a tira
+e o baixamos para o chÃ£o.
 
 746
 01:20:41,777 --> 01:20:44,414
-<i>Ele estava completamente frio. Rígido.</i>
+<i>Ele estava completamente frio. RÃ­gido.</i>
 
 747
 01:20:47,784 --> 01:20:50,652
-<i>Nós revistamos o corpo, e encontramos
+<i>NÃ³s revistamos o corpo, e encontramos
 uma carteira que continha tres cartas</i>
 
 748
 01:20:51,588 --> 01:20:53,657
-<i>Uma delas estava marcada com “Serviço Secreto”."</i>
+<i>Uma delas estava marcada com Â“ServiÃ§o SecretoÂ”."</i>
 
 749
 01:21:14,611 --> 01:21:15,644
@@ -3267,7 +3267,7 @@ Continue.
 
 750
 01:21:16,679 --> 01:21:18,649
-Nós então o levamos para a morgue em Long Aston.
+NÃ³s entÃ£o o levamos para a morgue em Long Aston.
 
 751
 01:21:21,918 --> 01:21:22,853
@@ -3292,16 +3292,16 @@ Ele bebia muito, mas suportava bem a bebida.
 
 756
 01:21:40,603 --> 01:21:43,774
-Eu não conheço nenhuma razão
+Eu nÃ£o conheÃ§o nenhuma razÃ£o
 para que ele quisesse se enforcar.
 
 757
 01:21:46,842 --> 01:21:47,878
-Ele não faria isso.
+Ele nÃ£o faria isso.
 
 758
 01:22:01,124 --> 01:22:03,860
-Que fique bem gravado isso, na apresentação
+Que fique bem gravado isso, na apresentaÃ§Ã£o
 
 759
 01:22:04,661 --> 01:22:07,397
@@ -3314,21 +3314,21 @@ do condado de Somerset
 
 761
 01:22:12,034 --> 01:22:14,336
-pelo escritório de Sua Majestade o Rei,
+pelo escritÃ³rio de Sua Majestade o Rei,
 
 762
 01:22:14,704 --> 01:22:18,407
-ao deliberar sobre a provável
+ao deliberar sobre a provÃ¡vel
 causa da morte de Michael Loboda,
 
 763
 01:22:18,508 --> 01:22:21,278
-também conhecido como
+tambÃ©m conhecido como
 Ivan Krivosertsev,
 
 764
 01:22:22,379 --> 01:22:25,015
-dou o veredicto de suícidio,
+dou o veredicto de suÃ­cidio,
 
 765
 01:22:26,715 --> 01:22:27,784
@@ -3336,20 +3336,20 @@ por enforcamento.
 
 766
 01:22:30,686 --> 01:22:33,723
-Esses processos estão devidamente encerrados.
+Esses processos estÃ£o devidamente encerrados.
 
 767
 01:22:46,536 --> 01:22:47,938
-Certamente você não os aceitará.
+Certamente vocÃª nÃ£o os aceitarÃ¡.
 
 768
 01:22:48,370 --> 01:22:49,738
-Você tem que aceitar isso.
+VocÃª tem que aceitar isso.
 
 769
 01:22:50,039 --> 01:22:52,776
-Esse é outro suicídio do qual
-ninguém quer ouvir falar.
+Esse Ã© outro suicÃ­dio do qual
+ninguÃ©m quer ouvir falar.
 
 770
 01:22:52,909 --> 01:22:54,576
@@ -3357,11 +3357,11 @@ E sobre as cartas na carteira?
 
 771
 01:22:54,710 --> 01:22:56,847
-Não nos foi permitido ve-las.
+NÃ£o nos foi permitido ve-las.
 
 772
 01:22:57,979 --> 01:22:58,948
-Por que elas não foram lidas.
+Por que elas nÃ£o foram lidas.
 
 773
 01:22:59,749 --> 01:23:01,351
@@ -3369,8 +3369,8 @@ Eu sinto muito senhor Underwood,
 
 774
 01:23:01,750 --> 01:23:04,186
-mas se o senhor não tivesse se envolvido,
-talvez não houvesse necessidade de saber.
+mas se o senhor nÃ£o tivesse se envolvido,
+talvez nÃ£o houvesse necessidade de saber.
 
 775
 01:23:04,987 --> 01:23:09,592
@@ -3379,29 +3379,29 @@ eu fiz o que pensei ser o certo.
 
 776
 01:23:11,093 --> 01:23:12,763
-Você fez? Realmente?
+VocÃª fez? Realmente?
 
 777
 01:23:13,897 --> 01:23:14,930
-Nós ainda temos isso.
+NÃ³s ainda temos isso.
 
 778
 01:23:15,764 --> 01:23:17,800
-Um testemunho que não vale nada
+Um testemunho que nÃ£o vale nada
 sem a testemunha.
 
 779
 01:23:19,802 --> 01:23:22,005
-Mesmo que isto não seja aceito na corte,
+Mesmo que isto nÃ£o seja aceito na corte,
 
 780
 01:23:22,872 --> 01:23:24,840
-ainda podera trazer a estória à tona.
+ainda podera trazer a estÃ³ria Ã  tona.
 
 781
 01:23:25,207 --> 01:23:28,577
-- É tudo o que você quer, não é?
-- Sim, senhor Underwood, mas não tem mais
+- Ã‰ tudo o que vocÃª quer, nÃ£o Ã©?
+- Sim, senhor Underwood, mas nÃ£o tem mais
 nada que eu possa fazer.
 
 782
@@ -3423,7 +3423,7 @@ Minhas desculpas, tenho que ir.
 
 786
 01:23:41,023 --> 01:23:44,260
-Ele não merecia isso.
+Ele nÃ£o merecia isso.
 Ele era um homem bom.
 
 787
@@ -3436,24 +3436,24 @@ De verdade.
 
 789
 01:24:07,116 --> 01:24:08,851
-Não se atreva a se afastar de mim!
+NÃ£o se atreva a se afastar de mim!
 
 790
 01:24:09,985 --> 01:24:12,988
-Você também é culpado
-por essa situação impossível!
+VocÃª tambÃ©m Ã© culpado
+por essa situaÃ§Ã£o impossÃ­vel!
 
 791
 01:24:14,022 --> 01:24:15,858
-Você fez o que pensava que era certo.
+VocÃª fez o que pensava que era certo.
 
 792
 01:24:17,360 --> 01:24:18,295
-E eu também.
+E eu tambÃ©m.
 
 793
 01:24:20,629 --> 01:24:21,897
-Isso ainda não acabou.
+Isso ainda nÃ£o acabou.
 
 794
 01:27:59,214 --> 01:28:01,950
@@ -3466,17 +3466,17 @@ quando Stephen morreu,</i>
 
 796
 01:28:05,054 --> 01:28:08,858
-<i>Tudo em que eu acreditava foi estilhaçado
-pelas revelaçõe do que ele descobrira</i>
+<i>Tudo em que eu acreditava foi estilhaÃ§ado
+pelas revelaÃ§Ãµe do que ele descobrira</i>
 
 797
 01:28:09,192 --> 01:28:11,828
 <i>e eu estava determinada a terminar
-o que ele começara.</i>
+o que ele comeÃ§ara.</i>
 
 798
 01:28:13,228 --> 01:28:15,197
-<i>finalmente imprimiram a matéria do Stephen</i>
+<i>finalmente imprimiram a matÃ©ria do Stephen</i>
 
 799
 01:28:15,298 --> 01:28:17,066
@@ -3484,7 +3484,7 @@ o que ele começara.</i>
 
 800
 01:28:17,198 --> 01:28:19,568
-<i>a última testemunha dos incontáveis
+<i>a Ãºltima testemunha dos incontÃ¡veis
 soldados poloneses</i>
 
 801
@@ -3498,7 +3498,7 @@ e por maiores que fossem eu os assumiria</i>
 
 803
 01:28:25,107 --> 01:28:26,142
-<i>Eles não podiam ser esquecidos,</i>
+<i>Eles nÃ£o podiam ser esquecidos,</i>
 
 804
 01:28:27,043 --> 01:28:28,143
@@ -3507,46 +3507,46 @@ e por maiores que fossem eu os assumiria</i>
 805
 01:28:42,043 --> 01:28:30,143
 Desculpe Coronel. Isto acabou de chegar
-da América para o senhor.
+da AmÃ©rica para o senhor.
 
 806
 01:29:11,000 --> 01:29:21,000
-<i>A ÚLTIMA TESTEMUNHA
+<i>A ÃšLTIMA TESTEMUNHA
 A verdade sobre o massacre em Katyn.
 Por Stephen Underwood</i>
 
 807
 01:29:36,000 --> 01:29:46,500
-Em 1990, o Presidente Soviético Gorbachev admitiu que
-a União Soviética foi responsável pelo assassinato de
+Em 1990, o Presidente SoviÃ©tico Gorbachev admitiu que
+a UniÃ£o SoviÃ©tica foi responsÃ¡vel pelo assassinato de
 prisioneiros de guerra poloneses em Katyn.
 
 808
 01:29:47,000 --> 01:29:51,500
-Jamais alguém foi processado por isso.
+Jamais alguÃ©m foi processado por isso.
 
 809
 01:29:53,000 --> 01:30:00,500
 Em 2012, documentos secretos liberados provaram
 que o governo dos Estados Unidos suprimiu
-informações que atestavam a culpa soviética.
+informaÃ§Ãµes que atestavam a culpa soviÃ©tica.
 
 810
 01:30:02,000 --> 01:30:11,500
-Nenhum governo britânico jamais acusou a
-antiga União Soviética de responsabilidade
+Nenhum governo britÃ¢nico jamais acusou a
+antiga UniÃ£o SoviÃ©tica de responsabilidade
 pelo massacre de Katyn.
 
 811
 01:30:13,000 --> 01:30:25,500
-Este filme é dedicado aos 22.000 prisioneiros
+Este filme Ã© dedicado aos 22.000 prisioneiros
 de guerra poloneses assassinados em Katyn
 e todos os que foram assassinados nos anos seguintes
 na tentativa de que a verdade permanecesse enterrada para sempre.
 
 812
 01:30:29,000 --> 01:30:34,500
-Em memória do meu avô
+Em memÃ³ria do meu avÃ´
 
 813
 01:30:34,568 --> 01:30:39,568
