@@ -1,6 +1,6 @@
 1
 00:02:23,098 --> 00:02:28,020
-COMANDOTORRENTS.COM
+COMANDOTORRENTS.COM 
 
 2
 00:26:27,796 --> 00:26:28,880
@@ -12,24 +12,24 @@ Cunhado.
 
 4
 00:26:37,514 --> 00:26:40,642
-N„o, pode deixar. N„o vai precisar.
+N√£o, pode deixar. N√£o vai precisar.
 
 5
 00:57:19,731 --> 00:57:21,066
-Com licenÁa.
+Com licen√ßa.
 
 6
 00:57:21,191 --> 00:57:23,485
-VocÍ viu este senhor?
+Voc√™ viu este senhor?
 
 7
 00:57:24,569 --> 00:57:26,446
-Acho que ele est· hospedado ali.
+Acho que ele est√° hospedado ali.
 
 8
 00:57:30,492 --> 00:57:32,577
--Ol·.
--Ol·. Pode entrar.
+-Ol√°.
+-Ol√°. Pode entrar.
 
 9
 00:57:32,869 --> 00:57:33,953
@@ -43,11 +43,11 @@ Ei, cara.
 11
 00:57:37,999 --> 00:57:42,170
 -Como posso ajudar?
--Por acaso vocÍ viu este homem?
+-Por acaso voc√™ viu este homem?
 
 12
 00:57:43,463 --> 00:57:44,798
-… o gringo p„o-duro.
+√â o gringo p√£o-duro.
 
 13
 00:57:48,134 --> 00:57:49,344
@@ -56,11 +56,11 @@ Para com isso.
 14
 00:57:49,636 --> 00:57:52,514
 Ele parece um amigo nosso,
-mas n„o È ele.
+mas n√£o √© ele.
 
 15
 00:57:52,764 --> 00:57:54,182
-…, parece o "El Pancho".
+√â, parece o "El Pancho".
 
 16
 00:57:56,935 --> 00:57:58,061
@@ -76,11 +76,11 @@ Como?
 
 19
 00:58:06,027 --> 00:58:07,862
-Meu chefe est· procurando por ele.
+Meu chefe est√° procurando por ele.
 
 20
 00:58:09,072 --> 00:58:10,240
-Quem È seu chefe?
+Quem √© seu chefe?
 
 21
 00:58:11,783 --> 00:58:13,326
@@ -92,12 +92,12 @@ O Pantera Negra?
 
 23
 00:58:23,795 --> 00:58:27,132
--N„o podemos ajudar.
--Desculpa, n„o o conhecemos.
+-N√£o podemos ajudar.
+-Desculpa, n√£o o conhecemos.
 
 24
 00:58:29,884 --> 00:58:32,595
-Fiquem com o cart„o,
+Fiquem com o cart√£o,
 caso se lembrem de alguma coisa.
 
 25
